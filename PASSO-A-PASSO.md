@@ -32,7 +32,7 @@ O bot é uma conta de robô que te manda mensagem. Criar é de graça e leva 5 m
 7. Ele responde com uma mensagem contendo uma linha parecida com esta:
 
    ```
-   7712345678:AAHk3x9dQwErTyUiOpAsDfGhJkLzXcVbNm0
+
    ```
 
    **Esse é o seu token.** Copie e guarde num bloco de notas.
