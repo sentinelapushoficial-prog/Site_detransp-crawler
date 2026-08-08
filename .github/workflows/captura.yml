@@ -1,0 +1,75 @@
+name: Captura do Detran-SP
+
+# Roda sozinho toda segunda-feira as 4h da manha (horario de Brasilia).
+# O GitHub trabalha em UTC, e Brasilia e UTC-3, entao 4h daqui = 7h la.
+on:
+  schedule:
+    - cron: "0 7 * * 1"
+  workflow_dispatch:        # botao "Run workflow" para rodar na hora
+
+# necessario para o robo salvar o estado da captura de volta no repositorio
+permissions:
+  contents: write
+
+jobs:
+  capturar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - name: Baixar os arquivos do projeto
+        uses: actions/checkout@v4
+
+      - name: Instalar o Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Instalar as bibliotecas e o navegador
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Rodar a captura e avisar no Telegram
+        env:
+          PROJETO: ${{ github.workspace }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          chmod +x rodar.sh
+          ./rodar.sh
+
+      - name: Mostrar o log da execucao
+        if: always()
+        run: cat logs/execucoes.log || echo "(sem log)"
+
+      - name: Guardar a base como arquivo baixavel
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: base-detran-sp
+          path: |
+            saida/*.md
+            saida/documentos.jsonl
+          retention-days: 30
+          if-no-files-found: warn
+
+      - name: Salvar o estado para a proxima execucao
+        if: always()
+        run: |
+          # Guardamos apenas o estado e o historico de mudancas. A base .md nao
+          # e commitada: ela chega pelo Telegram e fica como artefato acima.
+          git config user.name "Robo Sentinela SP"
+          git config user.email "actions@github.com"
+          # um 'git add' com varios caminhos falha inteiro se um deles nao
+          # existir, entao adicionamos um a um
+          for alvo in saida/estado.json saida/.primeiro-aviso-enviado saida/mudancas-*.md; do
+            [ -e "$alvo" ] && git add -f "$alvo"
+          done
+          if git diff --staged --quiet; then
+            echo "Nada mudou no estado; nao ha o que salvar."
+          else
+            git commit -m "Captura automatica do Detran-SP [skip ci]"
+            git push
+          fi
