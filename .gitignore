@@ -1,0 +1,18 @@
+# NUNCA envie o arquivo com o token do seu bot para o GitHub.
+notificacao.json
+
+# ambiente Python e caches
+.venv/
+__pycache__/
+*.pyc
+
+# logs
+logs/
+
+# saidas grandes: a base chega pelo Telegram e fica nos "artifacts" do GitHub.
+# O estado e o historico de mudancas SAO versionados (o workflow forca o add).
+saida/*.md
+saida/documentos.jsonl
+saida/falhas.json
+saida/crawler.log
+!saida/mudancas-*.md

@@ -1,0 +1,19 @@
+{
+  "_comentario": "Copie para config.json e ajuste. Tudo que nao estiver aqui usa o padrao do script. As sementes sao o ponto mais provavel de precisar de ajuste: rode --descobrir primeiro e veja o que o crawler encontra.",
+
+  "sementes": [
+    "https://www.detran.sp.gov.br/detransp?id=detran_sp_home",
+    "https://www.detran.sp.gov.br/detransp/pb/todos_os_servicos?id=todos_os_servicos",
+    "https://www.detran.sp.gov.br/detransp/pb/servicos/habilitacao?id=habilitacao"
+  ],
+
+  "max_paginas": 1500,
+  "max_profundidade": 5,
+  "concorrencia": 3,
+  "pausa_entre_requisicoes_s": 1.0,
+  "respeitar_robots": true,
+  "baixar_pdfs": true,
+
+  "pasta_saida": "saida",
+  "nome_base_saida": "detran-sp-base-conhecimento"
+}

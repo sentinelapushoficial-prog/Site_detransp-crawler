@@ -1,0 +1,9 @@
+{
+  "_leia": "Copie este arquivo para notificacao.json e preencha os dois campos. O PASSO-A-PASSO.md explica como conseguir cada um.",
+
+  "token": "COLE_AQUI_O_TOKEN_QUE_O_BOTFATHER_TE_DEU",
+  "chat_id": "COLE_AQUI_O_SEU_NUMERO_DE_CHAT",
+
+  "_anexar_base": "Se true, o bot manda o arquivo .md junto com o aviso, para voce baixar no celular e subir no NotebookLM.",
+  "anexar_base": true
+}
