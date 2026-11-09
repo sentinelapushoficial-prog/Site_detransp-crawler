@@ -1,168 +1,168 @@
 {
-  "gerado_em": "2026-11-02T15:18:16-03:00",
+  "gerado_em": "2026-11-09T15:54:26-03:00",
   "versao_crawler": "1.2.0",
   "crawl_completo": false,
   "paginas": {
     "https://www.detran.sp.gov.br/detransp?id=detran_sp_home": {
-      "hash": "b455bf8da1a96b8e",
+      "hash": "400dffb252b5ec00",
       "titulo": "O Detran-SP evoluiu\npara facilitar sua vida!",
       "categoria": "Outros conteudos",
-      "palavras": 1057,
-      "capturado_em": "2026-11-02T13:44:47-03:00"
+      "palavras": 1125,
+      "capturado_em": "2026-11-09T14:03:23-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/todos_os_servicos?id=todos_os_servicos": {
-      "hash": "2dad09ffb26fea05",
+      "hash": "cf1115fda0515fbb",
       "titulo": "Todos os Serviços - Detran-SP",
       "categoria": "Servicos Digitais",
-      "palavras": 244,
-      "capturado_em": "2026-11-02T13:44:45-03:00"
+      "palavras": 243,
+      "capturado_em": "2026-11-09T14:03:22-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/habilitacao?id=habilitacao": {
       "hash": "f08535f82ed789d8",
       "titulo": "Habilitação - Detran-SP",
       "categoria": "Habilitacao (CNH)",
       "palavras": 266,
-      "capturado_em": "2026-11-02T13:44:46-03:00"
+      "capturado_em": "2026-11-09T14:03:22-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/veiculos?id=veiculos": {
-      "hash": "653d106353b13237",
+      "hash": "c4ed9decea037d13",
       "titulo": "Veículos - Detran-SP",
       "categoria": "Veiculos",
-      "palavras": 240,
-      "capturado_em": "2026-11-02T13:44:57-03:00"
+      "palavras": 241,
+      "capturado_em": "2026-11-09T14:03:34-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/infracoes?id=infracoes": {
       "hash": "fe69fe81645bf84e",
       "titulo": "Infrações - Detran-SP",
       "categoria": "Infracoes e Multas",
       "palavras": 268,
-      "capturado_em": "2026-11-02T13:44:57-03:00"
+      "capturado_em": "2026-11-09T14:03:35-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/institucional?id=institucional": {
       "hash": "851a48fbc1cd6f67",
       "titulo": "Institucional - Detran-SP",
       "categoria": "Institucional",
       "palavras": 375,
-      "capturado_em": "2026-11-02T13:45:10-03:00"
+      "capturado_em": "2026-11-09T14:03:48-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=educacao": {
       "hash": "0a0393b2f6383033",
       "titulo": "Educacional - Detran-SP",
       "categoria": "Servicos Digitais",
       "palavras": 222,
-      "capturado_em": "2026-11-02T13:45:32-03:00"
+      "capturado_em": "2026-11-09T14:04:13-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=canais_de_comunicacao": {
       "hash": "0981614b6fb59671",
       "titulo": "Canais de Comunicação - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 158,
-      "capturado_em": "2026-11-02T13:45:53-03:00"
+      "capturado_em": "2026-11-09T14:04:41-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=transparencia": {
       "hash": "3d0fc9db4707ee0d",
       "titulo": "Transparência - Detran-SP",
       "categoria": "Institucional",
       "palavras": 185,
-      "capturado_em": "2026-11-02T13:45:54-03:00"
+      "capturado_em": "2026-11-09T14:04:41-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=leiloes": {
       "hash": "d8c96cfcc9959734",
       "titulo": "Leilão - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 94,
-      "capturado_em": "2026-11-02T13:46:05-03:00"
+      "capturado_em": "2026-11-09T14:04:55-03:00"
     },
     "https://www.detran.sp.gov.br/sac": {
       "hash": "688894d37eafcf7a",
       "titulo": "SAC Detran-SP - Detran SP - SAC",
       "categoria": "Outros conteudos",
       "palavras": 182,
-      "capturado_em": "2026-11-02T13:46:06-03:00"
+      "capturado_em": "2026-11-09T14:04:55-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=sinistros_infosiga": {
       "hash": "068055984f3b3d25",
       "titulo": "Sinistros - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 178,
-      "capturado_em": "2026-11-02T13:46:04-03:00"
+      "capturado_em": "2026-11-09T14:04:55-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=veiculos_dados": {
       "hash": "fbf14153e3edf47f",
       "titulo": "Veículos - Detran-SP",
       "categoria": "Veiculos",
       "palavras": 88,
-      "capturado_em": "2026-11-02T13:46:16-03:00"
+      "capturado_em": "2026-11-09T14:05:09-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=habilitacao_dados": {
       "hash": "b6cb9c2279eb8f70",
       "titulo": "Habilitação - Detran-SP",
       "categoria": "Habilitacao (CNH)",
       "palavras": 69,
-      "capturado_em": "2026-11-02T13:46:17-03:00"
+      "capturado_em": "2026-11-09T14:05:06-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=infracoes_dados": {
       "hash": "a30822730553c391",
       "titulo": "Infrações - Detran-SP",
       "categoria": "Infracoes e Multas",
       "palavras": 66,
-      "capturado_em": "2026-11-02T13:46:16-03:00"
+      "capturado_em": "2026-11-09T14:05:07-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=normas": {
       "hash": "bfb7e70d4ce437ab",
       "titulo": "Normas - Detran-SP",
       "categoria": "Legislacao e Atos Normativos",
       "palavras": 77,
-      "capturado_em": "2026-11-02T13:46:30-03:00"
+      "capturado_em": "2026-11-09T14:05:21-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=participacao_social": {
       "hash": "def80a20bb6ffa3d",
       "titulo": "Participação Social - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 129,
-      "capturado_em": "2026-11-02T13:46:28-03:00"
+      "capturado_em": "2026-11-09T14:05:24-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=credenciados": {
       "hash": "a5f55d879b537724",
       "titulo": "Credenciados - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 86,
-      "capturado_em": "2026-11-02T13:46:29-03:00"
+      "capturado_em": "2026-11-09T14:05:21-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=regulados": {
       "hash": "b34a6da751521268",
       "titulo": "Fiscalização e Processos - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 68,
-      "capturado_em": "2026-11-02T13:46:42-03:00"
+      "capturado_em": "2026-11-09T14:05:37-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=portal_ead": {
       "hash": "7634be64c51a2d51",
       "titulo": "Portal EaD - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 86,
-      "capturado_em": "2026-11-02T13:46:42-03:00"
+      "capturado_em": "2026-11-09T14:05:36-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=educacao_campanhas": {
       "hash": "1a7a9d46b997e747",
       "titulo": "Campanhas - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 71,
-      "capturado_em": "2026-11-02T13:46:41-03:00"
+      "capturado_em": "2026-11-09T14:05:35-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=parcerias_e_repositorio": {
       "hash": "485cdee9bb53451a",
       "titulo": "Parcerias e Repositório - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 84,
-      "capturado_em": "2026-11-02T13:46:52-03:00"
+      "capturado_em": "2026-11-09T14:05:50-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=programas_educativos": {
       "hash": "5e6f8503e466e420",
       "titulo": "Programas Educativos - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 140,
-      "capturado_em": "2026-11-02T13:46:53-03:00"
+      "capturado_em": "2026-11-09T14:05:50-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_registrar_veiculo_0km": {
       "hash": "058a65a8d5bb0d13",
@@ -172,18 +172,18 @@
       "capturado_em": "2026-09-14T10:36:21-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_transferir_veiculo": {
-      "hash": "9f3c0c865263eb96",
+      "hash": "2635efada0114965",
       "titulo": "Transferir Veículo",
       "categoria": "Veiculos",
       "palavras": 1026,
-      "capturado_em": "2026-11-02T13:47:03-03:00"
+      "capturado_em": "2026-11-09T14:06:02-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_consultar_debitos_restricoes": {
-      "hash": "bd27042e8c4892a7",
+      "hash": "533394cbeaa0f5e2",
       "titulo": "Consultar Débitos e Restrições",
       "categoria": "Veiculos",
       "palavras": 640,
-      "capturado_em": "2026-11-02T13:47:04-03:00"
+      "capturado_em": "2026-11-09T14:06:02-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_realizar_licenciamento_anual": {
       "hash": "ca795185accb5071",
@@ -193,368 +193,368 @@
       "capturado_em": "2026-09-21T10:34:43-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_solicitar_placa_do_veiculo": {
-      "hash": "9f46b31482be4e6d",
+      "hash": "36ad66fbee049c6d",
       "titulo": "Solicitar Placa do Veículo",
       "categoria": "Veiculos",
       "palavras": 939,
-      "capturado_em": "2026-11-02T13:47:16-03:00"
+      "capturado_em": "2026-11-09T14:06:15-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_imprimir_licenciamento_digital_crlve": {
-      "hash": "7ee9ec6769d64352",
+      "hash": "c86b2341df2118cf",
       "titulo": "Imprimir Licenciamento Digital (CRLV-e) - Pessoa Jurídica",
       "categoria": "Veiculos",
       "palavras": 544,
-      "capturado_em": "2026-11-02T13:47:14-03:00"
+      "capturado_em": "2026-11-09T14:06:15-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_renovar_cnh": {
-      "hash": "8849ddaf79645b58",
+      "hash": "c6eea0d237b26fce",
       "titulo": "Renovar CNH",
       "categoria": "Habilitacao (CNH)",
       "palavras": 1346,
-      "capturado_em": "2026-11-02T13:47:17-03:00"
+      "capturado_em": "2026-11-09T14:06:14-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_imprimir_cnh": {
-      "hash": "15697569c271aeab",
+      "hash": "6e42eb2507c6d124",
       "titulo": "Imprimir CNH (Beta)",
       "categoria": "Habilitacao (CNH)",
-      "palavras": 405,
-      "capturado_em": "2026-11-02T13:47:28-03:00"
+      "palavras": 385,
+      "capturado_em": "2026-11-09T14:06:30-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_solicitar_cnh_definitiva": {
-      "hash": "c38112c971c84751",
+      "hash": "9620a02766bfcc7b",
       "titulo": "Solicitar CNH Definitiva",
       "categoria": "Habilitacao (CNH)",
       "palavras": 874,
-      "capturado_em": "2026-11-02T13:47:28-03:00"
+      "capturado_em": "2026-11-09T14:06:28-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_iniciar_processo_primeira_habilitacao": {
-      "hash": "8912304f2d827bd3",
+      "hash": "2aea5342899c1ae1",
       "titulo": "Iniciar Processo de 1ª Habilitação",
       "categoria": "Habilitacao (CNH)",
       "palavras": 2189,
-      "capturado_em": "2026-11-02T13:47:28-03:00"
+      "capturado_em": "2026-11-09T14:06:27-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_agendar_exame_pratico_de_direcao_veicular": {
-      "hash": "ba189ac651521483",
+      "hash": "50670e5f2bf1ad38",
       "titulo": "Agendar ou Cancelar Exame Prático de Direção Veicular",
       "categoria": "Habilitacao (CNH)",
       "palavras": 1252,
-      "capturado_em": "2026-11-02T13:47:40-03:00"
+      "capturado_em": "2026-11-09T14:06:42-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_agendar_ou_cancelar_exame_teorico": {
-      "hash": "a57a88a0b161826f",
+      "hash": "e21442120c250e78",
       "titulo": "Agendar ou Cancelar Exame Teórico",
       "categoria": "Habilitacao (CNH)",
       "palavras": 1042,
-      "capturado_em": "2026-11-02T13:47:39-03:00"
+      "capturado_em": "2026-11-09T14:06:42-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_consultar_multas": {
-      "hash": "10bc1672fdda0f28",
+      "hash": "b4a05d5c0ec4ea31",
       "titulo": "Serviços de Infrações",
       "categoria": "Infracoes e Multas",
       "palavras": 458,
-      "capturado_em": "2026-11-02T13:47:39-03:00"
+      "capturado_em": "2026-11-09T14:06:42-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_apresentar_defesa_previa_autuacao": {
-      "hash": "a7c542431beaefd7",
+      "hash": "0b89b3d1be8bb50a",
       "titulo": "Apresentar Defesa Prévia da Autuação",
       "categoria": "Servicos Digitais",
       "palavras": 998,
-      "capturado_em": "2026-11-02T13:47:50-03:00"
+      "capturado_em": "2026-11-09T14:06:57-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_apresentar_recurso_contra_penalidade_de_multa_jari": {
-      "hash": "62183ab847dcdb9f",
+      "hash": "ac44fcf1ccf7b08f",
       "titulo": "Apresentar Recurso de Multa em 1ª Instância (Jari)",
       "categoria": "Infracoes e Multas",
-      "palavras": 651,
-      "capturado_em": "2026-11-02T13:47:51-03:00"
+      "palavras": 698,
+      "capturado_em": "2026-11-09T14:06:55-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_indicar_real_condutor_infrator_veiculo_de_pessoa_juridica": {
-      "hash": "ec7fd15702fd06d7",
+      "hash": "a8f407deed133f10",
       "titulo": "Indicar Real Condutor Infrator Veículo de Pessoa Jurídica",
       "categoria": "Veiculos",
       "palavras": 494,
-      "capturado_em": "2026-11-02T13:47:50-03:00"
+      "capturado_em": "2026-11-09T14:06:54-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_liberar_veiculo": {
-      "hash": "b23dc2f031b7a873",
+      "hash": "a0053a1f927560ac",
       "titulo": "Liberar Veículo",
       "categoria": "Veiculos",
       "palavras": 906,
-      "capturado_em": "2026-11-02T13:48:01-03:00"
+      "capturado_em": "2026-11-09T14:07:12-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_cumprir_ordem_judicial": {
-      "hash": "400291e72640d78e",
+      "hash": "fbc08b173dac70d4",
       "titulo": "Protocolar Ordem Judicial",
       "categoria": "Infracoes e Multas",
       "palavras": 490,
-      "capturado_em": "2026-11-02T13:48:01-03:00"
+      "capturado_em": "2026-11-09T14:07:09-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_realizar_inscricao_para_curso_especializado_de_motofrete": {
-      "hash": "70b8c438478832e0",
+      "hash": "797bbb95af2f2db2",
       "titulo": "Realizar Inscrição para Curso Especializado de Motofrete",
       "categoria": "Servicos Digitais",
       "palavras": 318,
-      "capturado_em": "2026-11-02T13:48:03-03:00"
+      "capturado_em": "2026-11-09T14:07:10-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_realizar_inscricao_para_curso_especializado_de_mototaxi": {
-      "hash": "5f070418346a74a6",
+      "hash": "174f8116ce512046",
       "titulo": "Realizar Inscrição para Curso Especializado de Mototáxi",
       "categoria": "Servicos Digitais",
-      "palavras": 315,
-      "capturado_em": "2026-11-02T13:48:16-03:00"
+      "palavras": 316,
+      "capturado_em": "2026-11-09T14:07:27-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_fazer_inscricao_no_curso_de_reciclagem": {
-      "hash": "c3c3533682741869",
+      "hash": "47808e552ae0f033",
       "titulo": "Fazer Inscrição no Curso de Reciclagem",
       "categoria": "Servicos Digitais",
       "palavras": 496,
-      "capturado_em": "2026-11-02T13:48:13-03:00"
+      "capturado_em": "2026-11-09T14:07:25-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_emitir_certidao_de_cursos_de_capacitacao": {
-      "hash": "1f437029eee4ae80",
+      "hash": "f57cf7a887433fbb",
       "titulo": "Emitir Certidão de Cursos de Capacitação",
       "categoria": "Servicos Digitais",
       "palavras": 147,
-      "capturado_em": "2026-11-02T13:48:14-03:00"
+      "capturado_em": "2026-11-09T14:07:24-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_solicitar_relatorio_de_aulas_teoricas_e_praticas": {
-      "hash": "58c264ccffa7723e",
+      "hash": "bd150658ecb8756a",
       "titulo": "Solicitar Relatório de Aulas Teóricas e Práticas",
       "categoria": "Servicos Digitais",
       "palavras": 242,
-      "capturado_em": "2026-11-02T13:48:27-03:00"
+      "capturado_em": "2026-11-09T14:07:39-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=estrutura_organizacional": {
       "hash": "5f8550b6ba9694c8",
       "titulo": "Organograma",
       "categoria": "Institucional",
       "palavras": 648,
-      "capturado_em": "2026-11-02T13:48:27-03:00"
+      "capturado_em": "2026-11-09T14:07:39-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=estrategia_institucional_home": {
       "hash": "3b2d9d68347b2f84",
       "titulo": "INTRODUÇÃO",
       "categoria": "Institucional",
       "palavras": 270,
-      "capturado_em": "2026-11-02T13:48:26-03:00"
+      "capturado_em": "2026-11-09T14:07:38-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=autoridades_agendas_publicas": {
       "hash": "011c54da0fa0320d",
       "titulo": "Autoridades e Agendas Públicas - Detran-SP",
       "categoria": "Institucional",
       "palavras": 2351,
-      "capturado_em": "2026-11-02T13:48:39-03:00"
+      "capturado_em": "2026-11-09T14:07:51-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=competencias": {
       "hash": "f16d63dffac297ae",
       "titulo": "Competências - Detran-SP",
       "categoria": "Institucional",
       "palavras": 413,
-      "capturado_em": "2026-11-02T13:48:38-03:00"
+      "capturado_em": "2026-11-09T14:07:51-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=enderecos_contatos": {
       "hash": "fa71184dd6b05f2b",
       "titulo": "Endereços e Contatos - Detran-SP",
       "categoria": "Unidades e Atendimento",
       "palavras": 124,
-      "capturado_em": "2026-11-02T13:48:38-03:00"
+      "capturado_em": "2026-11-09T14:07:51-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=seguranca_viaria": {
       "hash": "5d5d9acbde426d36",
       "titulo": "Segurança Viária - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 792,
-      "capturado_em": "2026-11-02T13:48:50-03:00"
+      "capturado_em": "2026-11-09T14:08:06-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=perguntas_frequentes_faq": {
-      "hash": "590cdf968c9fad20",
+      "hash": "e1e305cb4f5543d7",
       "titulo": "Perguntas Frequentes - Detran-SP",
       "categoria": "Outros conteudos",
-      "palavras": 618,
-      "capturado_em": "2026-11-02T13:48:50-03:00"
+      "palavras": 684,
+      "capturado_em": "2026-11-09T14:08:04-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=sic": {
       "hash": "64fde067a3076dc4",
       "titulo": "Serviço de Informação ao Cidadão - SIC - Detran-SP",
       "categoria": "Servicos Digitais",
       "palavras": 332,
-      "capturado_em": "2026-11-02T13:49:01-03:00"
+      "capturado_em": "2026-11-09T14:08:21-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=lgpd": {
       "hash": "fd4584343a1a5a67",
       "titulo": "Lei Geral de Proteção de Dados - LGPD - Detran-SP",
       "categoria": "Institucional",
       "palavras": 111,
-      "capturado_em": "2026-11-02T13:49:01-03:00"
+      "capturado_em": "2026-11-09T14:08:18-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=ouvidoria": {
       "hash": "e70fb50e538d13ef",
       "titulo": "Ouvidoria Detran-SP - Detran-SP",
       "categoria": "Unidades e Atendimento",
       "palavras": 374,
-      "capturado_em": "2026-11-02T13:49:00-03:00"
+      "capturado_em": "2026-11-09T14:08:21-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=sala_imprensa": {
       "hash": "60c4d55758ab3a4a",
       "titulo": "Imprensa - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 219,
-      "capturado_em": "2026-11-02T13:49:11-03:00"
+      "capturado_em": "2026-11-09T14:08:35-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=servidores_publicos_funcionarios": {
       "hash": "212fcc85f25b1e99",
       "titulo": "Servidores e Funcionários Públicos - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 157,
-      "capturado_em": "2026-11-02T13:49:11-03:00"
+      "capturado_em": "2026-11-09T14:08:32-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=programas_acoes": {
       "hash": "5cc24639ed6a5832",
       "titulo": "Programas e Ações - Detran-SP",
       "categoria": "Institucional",
       "palavras": 583,
-      "capturado_em": "2026-11-02T13:49:13-03:00"
+      "capturado_em": "2026-11-09T14:08:33-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/licitacoes?id=licitacao_category&sys_id=48a3abce87c1aa1422bdc9530cbb3581": {
-      "hash": "2a1ac35300878ec4",
+      "hash": "05fc799b01b4d875",
       "titulo": "Categoria Licitação - Detran-SP",
       "categoria": "Outros conteudos",
-      "palavras": 415,
-      "capturado_em": "2026-11-02T13:49:23-03:00"
+      "palavras": 408,
+      "capturado_em": "2026-11-09T14:08:47-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=licitacoes_contratacoes_diretas_e_contratos": {
       "hash": "81759b52ff26a41e",
       "titulo": "Licitações, Contratações Diretas e Contratos - Detran-SP",
       "categoria": "Institucional",
       "palavras": 97,
-      "capturado_em": "2026-11-02T13:49:24-03:00"
+      "capturado_em": "2026-11-09T14:08:48-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=convenios_repasses_transferencias": {
       "hash": "938a5bcb88df0e50",
       "titulo": "Convênios, Repasses e Transferências - Detran-SP",
       "categoria": "Veiculos",
       "palavras": 125,
-      "capturado_em": "2026-11-02T14:48:53-03:00"
+      "capturado_em": "2026-11-09T15:19:55-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=dados_abertos": {
       "hash": "ca79b07c4eb27419",
       "titulo": "Dados Abertos - Detran-SP",
       "categoria": "Institucional",
       "palavras": 171,
-      "capturado_em": "2026-11-02T13:49:35-03:00"
+      "capturado_em": "2026-11-09T14:09:02-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=editais_retirada_veiculo": {
-      "hash": "46a3af7414e843bf",
+      "hash": "c1d9feb0ef3af3d4",
       "titulo": "Editais de Notificação para Retirada de Veículos - Detran-SP",
       "categoria": "Veiculos",
-      "palavras": 891,
-      "capturado_em": "2026-11-02T13:49:34-03:00"
+      "palavras": 905,
+      "capturado_em": "2026-11-09T14:09:02-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=editais_leilao": {
-      "hash": "803b60d373440b6f",
+      "hash": "aee39c31a8b7ff85",
       "titulo": "Editais de Leilão - Detran-SP",
       "categoria": "Outros conteudos",
-      "palavras": 1044,
-      "capturado_em": "2026-11-02T13:49:35-03:00"
+      "palavras": 1042,
+      "capturado_em": "2026-11-09T14:09:02-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=editais_pos_leilao": {
       "hash": "906fa683635c3099",
       "titulo": "Editais de Notificação Pós-Leilão - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 251,
-      "capturado_em": "2026-11-02T13:49:45-03:00"
+      "capturado_em": "2026-11-09T14:09:14-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_consultar_fila_de_leiloeiros_e_avaliadores": {
-      "hash": "42cb73e919ac3e76",
+      "hash": "17b1881cd93f2956",
       "titulo": "Consultar Fila de Leiloeiros e Avaliadores",
       "categoria": "Servicos Digitais",
       "palavras": 141,
-      "capturado_em": "2026-11-02T13:49:46-03:00"
+      "capturado_em": "2026-11-09T14:09:14-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=leis_decretos": {
       "hash": "56c51f7aa10730d6",
       "titulo": "Leis e Decretos - Detran-SP",
       "categoria": "Legislacao e Atos Normativos",
       "palavras": 833,
-      "capturado_em": "2026-11-02T13:50:23-03:00"
+      "capturado_em": "2026-11-09T14:09:55-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=conselhos_de_transito": {
       "hash": "608d255a3d32ccb1",
       "titulo": "Conselhos de Trânsito - Detran-SP",
       "categoria": "Legislacao e Atos Normativos",
       "palavras": 49,
-      "capturado_em": "2026-11-02T13:50:24-03:00"
+      "capturado_em": "2026-11-09T14:09:54-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=orgaos_executivos_de_transito": {
       "hash": "6f35c08d270fe0e0",
       "titulo": "Órgãos Executivos de Trânsito - Detran-SP",
       "categoria": "Legislacao e Atos Normativos",
       "palavras": 48,
-      "capturado_em": "2026-11-02T13:50:23-03:00"
+      "capturado_em": "2026-11-09T14:09:54-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=consulta_publica": {
       "hash": "67e7feed2506ea74",
       "titulo": "Consultas Públicas - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 387,
-      "capturado_em": "2026-11-02T13:50:35-03:00"
+      "capturado_em": "2026-11-09T14:10:07-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=avalicacao_servicos_publicos": {
       "hash": "c0869d3008745d07",
       "titulo": "Avaliação dos Serviços Públicos - Detran-SP",
       "categoria": "Servicos Digitais",
       "palavras": 151,
-      "capturado_em": "2026-11-02T13:50:35-03:00"
+      "capturado_em": "2026-11-09T14:10:07-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_consultar_os_agentes_e_empresas_reguladas": {
-      "hash": "ab399923dba69d98",
+      "hash": "502a8a4f71d04818",
       "titulo": "Consulta de Agentes Regulados - Detran-SP",
       "categoria": "Servicos Digitais",
-      "palavras": 346,
-      "capturado_em": "2026-11-02T13:50:37-03:00"
+      "palavras": 348,
+      "capturado_em": "2026-11-09T14:10:07-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=consulta_despachantes_credenciados": {
       "hash": "75e44f1b15e8d49d",
       "titulo": "Consulta Despachantes Credenciados e Taxa de Aprovação - Detran-SP",
       "categoria": "Taxas e Pagamentos",
       "palavras": 50,
-      "capturado_em": "2026-11-02T13:50:50-03:00"
+      "capturado_em": "2026-11-09T14:10:22-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=estatisticas_de_vistoria_veicular": {
       "hash": "8415e8df73119188",
       "titulo": "Estatísticas de Vistoria Veicular - Detran-SP",
       "categoria": "Veiculos",
       "palavras": 44,
-      "capturado_em": "2026-11-02T13:50:49-03:00"
+      "capturado_em": "2026-11-09T14:10:22-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=informacoes_renave": {
-      "hash": "2ea78397eebcd41f",
+      "hash": "7485b09cc5919b1b",
       "titulo": "Informações RENAVE - Detran-SP",
       "categoria": "Outros conteudos",
-      "palavras": 783,
-      "capturado_em": "2026-11-02T13:50:47-03:00"
+      "palavras": 789,
+      "capturado_em": "2026-11-09T14:10:19-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=noticias_campanhas": {
       "hash": "64542c8959815b50",
       "titulo": "Notícias e Campanhas - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 44,
-      "capturado_em": "2026-11-02T13:51:01-03:00"
+      "capturado_em": "2026-11-09T14:10:34-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=parcerias_educacao_transito": {
       "hash": "4b49d3b73e267882",
       "titulo": "Parcerias em Educação para o Trânsito - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 96,
-      "capturado_em": "2026-11-02T13:51:00-03:00"
+      "capturado_em": "2026-11-09T14:10:34-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=repositorio_educacional": {
       "hash": "99720cc875eb536a",
       "titulo": "Repositório Educacional - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 204,
-      "capturado_em": "2026-11-02T13:51:01-03:00"
+      "capturado_em": "2026-11-09T14:10:34-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_educacao_viaria_vital": {
       "hash": "0ccd44997355c46a",
@@ -568,7 +568,7 @@
       "titulo": "Seguranca Viária - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 671,
-      "capturado_em": "2026-11-02T13:51:12-03:00"
+      "capturado_em": "2026-11-09T14:10:46-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=noticia&sys_kb_id=bbb8b62a3b710fd068de99b693e45a58": {
       "hash": "dcfc83a6651c912d",
@@ -578,11 +578,11 @@
       "capturado_em": "2026-10-05T12:36:03-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=noticias": {
-      "hash": "2be96846115a66e6",
+      "hash": "ec61f170fb1c67df",
       "titulo": "Notícias - Detran-SP",
       "categoria": "Outros conteudos",
-      "palavras": 250,
-      "capturado_em": "2026-11-02T13:52:00-03:00"
+      "palavras": 248,
+      "capturado_em": "2026-11-09T14:11:39-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/licitacoes?id=licitacao_category&sys_id=dde9203233ee2210cd8381ac4f5c7b2a": {
       "hash": "09e6fd6cdf69129c",
@@ -603,21 +603,21 @@
       "titulo": "Aviso de Privacidade do Site - Detran-SP",
       "categoria": "Institucional",
       "palavras": 2530,
-      "capturado_em": "2026-11-02T13:51:57-03:00"
+      "capturado_em": "2026-11-09T14:11:52-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/todos_os_servicos?id=consultas": {
-      "hash": "5ba3e4d14a40bbcf",
+      "hash": "e69c12d3deaa3424",
       "titulo": "Consultas - Detran-SP",
       "categoria": "Servicos Digitais",
-      "palavras": 227,
-      "capturado_em": "2026-11-02T13:56:36-03:00"
+      "palavras": 234,
+      "capturado_em": "2026-11-09T14:17:20-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/todos_os_servicos?id=carta_de_servico_acompanhar_emissao_da_cnh_ou_pid_e_rastreio_pelos_correios": {
-      "hash": "9d4613470e1f97bc",
+      "hash": "8300cf35277f4c8d",
       "titulo": "Acompanhar Emissão da CNH ou PID e Rastreio pelos Correios",
       "categoria": "Habilitacao (CNH)",
       "palavras": 304,
-      "capturado_em": "2026-11-02T13:56:37-03:00"
+      "capturado_em": "2026-11-09T14:17:20-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/todos_os_servicos?id=carta_de_servico_emitir_2via_cnh": {
       "hash": "d416c5725e789eda",
@@ -627,109 +627,109 @@
       "capturado_em": "2026-10-26T11:11:26-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/todos_os_servicos?id=carta_de_servico_live": {
-      "hash": "ff99af60515839e5",
+      "hash": "2f7070ada9a3ab0a",
       "titulo": "Liberar de Imediato o Veículo (LIVE)",
       "categoria": "Veiculos",
       "palavras": 524,
-      "capturado_em": "2026-11-02T13:56:47-03:00"
+      "capturado_em": "2026-11-09T14:17:35-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/todos_os_servicos?id=carta_de_servico_consultar_servicos_de_cnh": {
-      "hash": "53f2bffdb7135dfd",
+      "hash": "6b0ba1482ca1e4e1",
       "titulo": "Consultar Serviços de CNH",
       "categoria": "Habilitacao (CNH)",
-      "palavras": 3192,
-      "capturado_em": "2026-11-02T13:56:48-03:00"
+      "palavras": 3201,
+      "capturado_em": "2026-11-09T14:17:33-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/todos_os_servicos?id=carta_de_servico_alterar_endereco_cnh_veiculo": {
-      "hash": "0299f09b3372050e",
+      "hash": "da41a426d3523357",
       "titulo": "Alterar Endereço da CNH ou do Veículo",
       "categoria": "Habilitacao (CNH)",
       "palavras": 586,
-      "capturado_em": "2026-11-02T13:56:47-03:00"
+      "capturado_em": "2026-11-09T14:17:32-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/habilitacao?id=carta_de_servico_acessar_servicos_de_primeira_habilitacao": {
-      "hash": "3811eb7b32a21854",
+      "hash": "596ceeb51a1e64d9",
       "titulo": "Acessar Serviços de 1ª Habilitação",
       "categoria": "Habilitacao (CNH)",
       "palavras": 1879,
-      "capturado_em": "2026-11-02T14:01:34-03:00"
+      "capturado_em": "2026-11-09T14:23:12-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/habilitacao?id=carta_de_servico_realizar_simulado_prova_teorica": {
-      "hash": "480652604eb44df0",
+      "hash": "0fd15c83eacfbba2",
       "titulo": "Realizar Simulado da Prova Teórica",
       "categoria": "Habilitacao (CNH)",
       "palavras": 213,
-      "capturado_em": "2026-11-02T14:01:34-03:00"
+      "capturado_em": "2026-11-09T14:23:12-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/habilitacao?id=carta_de_servico_validar_curso_teorico_cnh_do_brasil_no_detran_sp": {
-      "hash": "e73c2306a07cf5b4",
+      "hash": "76485a82833790a0",
       "titulo": "Validar Curso Teórico da CNH do Brasil no Detran-SP",
       "categoria": "Habilitacao (CNH)",
       "palavras": 359,
-      "capturado_em": "2026-11-02T14:01:46-03:00"
+      "capturado_em": "2026-11-09T14:23:25-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/habilitacao?id=carta_de_servico_emitir_certidao_pontos_cnh": {
-      "hash": "ead04786931ca36e",
+      "hash": "652d0227520c4ccc",
       "titulo": "Emitir Certidão de Pontos da CNH",
       "categoria": "Habilitacao (CNH)",
       "palavras": 154,
-      "capturado_em": "2026-11-02T14:01:46-03:00"
+      "capturado_em": "2026-11-09T14:23:25-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/habilitacao?id=carta_de_servico_consultar_ou_apresentar_defesa_ou_recurso_de_suspensao_ou_cassacao_da_cnh": {
-      "hash": "d847928af6cf805d",
+      "hash": "13ed4f5d2f804780",
       "titulo": "Apresentar Defesa ou Recurso de Suspensão ou Cassação da CNH",
       "categoria": "Habilitacao (CNH)",
-      "palavras": 819,
-      "capturado_em": "2026-11-02T14:01:45-03:00"
+      "palavras": 860,
+      "capturado_em": "2026-11-09T14:23:28-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/habilitacao?id=carta_de_servico_incluir_ear_cnh": {
-      "hash": "15165d97cd0ef36b",
+      "hash": "40114d20be4c5f48",
       "titulo": "Incluir EAR (Exerce Atividade Remunerada) na CNH",
       "categoria": "Habilitacao (CNH)",
       "palavras": 794,
-      "capturado_em": "2026-11-02T14:01:57-03:00"
+      "capturado_em": "2026-11-09T14:23:40-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/veiculos?id=carta_de_servico_acompanhar_servicos_de_veiculos": {
-      "hash": "144c2d928f658287",
+      "hash": "1a6bbca10c603056",
       "titulo": "Acompanhar Serviços de Veículos",
       "categoria": "Veiculos",
       "palavras": 303,
-      "capturado_em": "2026-11-02T14:06:31-03:00"
+      "capturado_em": "2026-11-09T14:29:09-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/veiculos?id=carta_de_servico_liberar_veiculos_sem_registro": {
-      "hash": "6b24de356e78efd3",
+      "hash": "6039678fa4d9b758",
       "titulo": "Liberar Veículos Sem Registro",
       "categoria": "Veiculos",
       "palavras": 1366,
-      "capturado_em": "2026-11-02T14:06:32-03:00"
+      "capturado_em": "2026-11-09T14:29:06-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/veiculos?id=carta_de_servico_solicitar_estampagem_placa": {
-      "hash": "c04f8b076a030ee1",
+      "hash": "279a4587510aff74",
       "titulo": "Solicitar 2ª Via de Placa",
       "categoria": "Veiculos",
       "palavras": 537,
-      "capturado_em": "2026-11-02T14:06:31-03:00"
+      "capturado_em": "2026-11-09T14:29:21-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/veiculos?id=carta_de_servico_transferir_localidade_veiculo_registrado_em_outro_estado": {
-      "hash": "d4798317d1a52539",
+      "hash": "50aa8f1ec1d6d1fb",
       "titulo": "Transferir Localidade de Veículo Registrado em Outro Estado",
       "categoria": "Veiculos",
-      "palavras": 1641,
-      "capturado_em": "2026-11-02T14:06:46-03:00"
+      "palavras": 1642,
+      "capturado_em": "2026-11-09T14:29:21-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/veiculos?id=carta_de_servico_solicitar_pesquisar_gravame_de_veiculo": {
-      "hash": "c762b4df6ada247c",
+      "hash": "e3c7868d257bac3f",
       "titulo": "Pesquisar Gravame de Veículo",
       "categoria": "Veiculos",
       "palavras": 171,
-      "capturado_em": "2026-11-02T14:06:47-03:00"
+      "capturado_em": "2026-11-09T14:29:21-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/veiculos?id=carta_de_servico_atualizar_placa_do_veiculo_para_o_padrao_mercosul": {
-      "hash": "9d24b0fdcf50050f",
+      "hash": "1d3df092e28f3930",
       "titulo": "Atualizar Placa do Veículo para o Padrão Mercosul",
       "categoria": "Veiculos",
       "palavras": 605,
-      "capturado_em": "2026-11-02T14:06:46-03:00"
+      "capturado_em": "2026-11-09T14:29:36-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/veiculos?id=carta_de_servico_gestao_de_procuracoes": {
       "hash": "be1d358ce4f9ad2a",
@@ -739,39 +739,39 @@
       "capturado_em": "2026-11-02T14:06:58-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/infracoes?id=carta_de_servico_liberar_veiculo_recolhido_pelo_detransp": {
-      "hash": "07be2f3a5f219650",
+      "hash": "58eb47e5352474ff",
       "titulo": "Liberar Veículo Recolhido",
       "categoria": "Veiculos",
       "palavras": 726,
-      "capturado_em": "2026-11-02T14:11:37-03:00"
+      "capturado_em": "2026-11-09T14:35:08-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/infracoes?id=carta_de_servico_apresentar_recurso_contra_penalidade_de_multa_cetran": {
-      "hash": "1af9edd9785bcbb0",
+      "hash": "933ee6ecafc69e0c",
       "titulo": "Apresentar Recurso de Multa em 2ª Instância (Cetran)",
       "categoria": "Infracoes e Multas",
-      "palavras": 673,
-      "capturado_em": "2026-11-02T14:11:37-03:00"
+      "palavras": 677,
+      "capturado_em": "2026-11-09T14:35:09-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/infracoes?id=carta_de_servico_consultar_e_regularizar_situacao_da_cnh": {
-      "hash": "3ad8f766494d3edb",
+      "hash": "265f032d819f90f9",
       "titulo": "Consultar e regularizar situação da CNH",
       "categoria": "Habilitacao (CNH)",
       "palavras": 2101,
-      "capturado_em": "2026-11-02T14:11:48-03:00"
+      "capturado_em": "2026-11-09T14:35:22-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/infracoes?id=carta_de_servico_solicitar_retirada_de_pertences_pessoais_de_veiculo_recolhido": {
-      "hash": "1aef08ed6c0e8c61",
+      "hash": "3e1b503da46e1da3",
       "titulo": "Solicitar Retirada de Pertences Pessoais de Veículo Recolhido",
       "categoria": "Veiculos",
       "palavras": 406,
-      "capturado_em": "2026-11-02T14:11:48-03:00"
+      "capturado_em": "2026-11-09T14:35:23-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/infracoes?id=carta_de_servico_solicitar_saldo_remanescente_de_veiculo_de_leilao": {
-      "hash": "0221117d4fc626fa",
+      "hash": "b5f56cb301ba3473",
       "titulo": "Solicitar Saldo Remanescente de Veículo de Leilão",
       "categoria": "Veiculos",
       "palavras": 346,
-      "capturado_em": "2026-11-02T14:11:48-03:00"
+      "capturado_em": "2026-11-09T14:35:22-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/infracoes?id=carta_de_servico_pagar_multa_por_atraso_de_toxicologico": {
       "hash": "9f5c75f4677540e8",
@@ -785,14 +785,14 @@
       "titulo": "Carta de Serviço - Detran-SP",
       "categoria": "Servicos Digitais",
       "palavras": 63,
-      "capturado_em": "2026-11-02T14:20:29-03:00"
+      "capturado_em": "2026-11-09T14:45:43-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=corregedoria": {
       "hash": "496d891a9053f866",
       "titulo": "Corregedoria do Detran-SP - Detran-SP",
       "categoria": "Institucional",
       "palavras": 394,
-      "capturado_em": "2026-11-02T14:20:30-03:00"
+      "capturado_em": "2026-11-09T14:45:43-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/todos_os_servicos/educacao?id=carta_de_servico_solicitar_curso_preventivo_de_reciclagem": {
       "hash": "b2a56d08ab43d994",
@@ -802,95 +802,95 @@
       "capturado_em": "2026-09-21T11:11:51-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/todos_os_servicos/educacao?id=carta_de_servico_realizar_especializacao_para_transporte_de_emergencia": {
-      "hash": "a0cf13bcbae690ca",
+      "hash": "fb4cf113ebc7b3c6",
       "titulo": "Realizar Especialização para Transporte de Emergência",
       "categoria": "Servicos Digitais",
       "palavras": 482,
-      "capturado_em": "2026-11-02T14:25:19-03:00"
+      "capturado_em": "2026-11-09T14:51:23-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/todos_os_servicos/educacao?id=carta_de_servico_realizar_especializacao_para_transporte_de_produtos_perigosos": {
-      "hash": "26ab761ef8a02fdf",
+      "hash": "bda173f994a676d6",
       "titulo": "Realizar Especialização para Transporte de Produtos Perigosos",
       "categoria": "Servicos Digitais",
       "palavras": 529,
-      "capturado_em": "2026-11-02T14:25:18-03:00"
+      "capturado_em": "2026-11-09T14:51:25-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/todos_os_servicos/educacao?id=carta_de_servico_realizar_curso_para_instrutor_de_transito": {
-      "hash": "ac60698c96a83a95",
+      "hash": "a15610a364815e33",
       "titulo": "Realizar Curso para Instrutor de Trânsito",
       "categoria": "Servicos Digitais",
-      "palavras": 322,
-      "capturado_em": "2026-11-02T14:25:31-03:00"
+      "palavras": 323,
+      "capturado_em": "2026-11-09T14:51:37-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/todos_os_servicos/educacao?id=carta_de_servico_realizar_especializacao_para_transporte_de_carga_indivisivel": {
-      "hash": "2d60af87359992c0",
+      "hash": "2c4e2996eb116133",
       "titulo": "Realizar Especialização para Transporte de Carga Indivisível",
       "categoria": "Servicos Digitais",
       "palavras": 517,
-      "capturado_em": "2026-11-02T14:25:30-03:00"
+      "capturado_em": "2026-11-09T14:51:37-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/todos_os_servicos/educacao?id=carta_de_servico_solicitar_abertura_diaria_turmas_especializados": {
-      "hash": "215256536bea4622",
+      "hash": "ae91920ef6455e98",
       "titulo": "Solicitar Abertura Diária de Turmas (Especializados)",
       "categoria": "Servicos Digitais",
       "palavras": 342,
-      "capturado_em": "2026-11-02T14:25:30-03:00"
+      "capturado_em": "2026-11-09T14:51:40-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/todos_os_servicos/educacao?id=carta_de_servico_realizar_especializacao_para_transporte_de_escolares": {
-      "hash": "d5ff4578a58d62d2",
+      "hash": "0bc24f4a1e506ade",
       "titulo": "Realizar Especialização para Transporte de Escolares",
       "categoria": "Servicos Digitais",
       "palavras": 463,
-      "capturado_em": "2026-11-02T14:25:41-03:00"
+      "capturado_em": "2026-11-09T14:51:52-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=receitas_despesas": {
       "hash": "e44544df4d8f6707",
       "titulo": "Receitas e Despesas - Detran-SP",
       "categoria": "Institucional",
       "palavras": 492,
-      "capturado_em": "2026-11-02T14:48:54-03:00"
+      "capturado_em": "2026-11-09T15:19:55-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=recursos_jari": {
-      "hash": "107938afea6c92ee",
+      "hash": "5b15f6dab1dc24c9",
       "titulo": "Recursos - JARI - Detran-SP",
       "categoria": "Infracoes e Multas",
-      "palavras": 590,
-      "capturado_em": "2026-11-02T14:48:53-03:00"
+      "palavras": 582,
+      "capturado_em": "2026-11-09T15:19:55-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=normas": {
       "hash": "6a8fb0f10ffe24d2",
       "titulo": "Normas - Detran SP - SAC",
       "categoria": "Legislacao e Atos Normativos",
       "palavras": 77,
-      "capturado_em": "2026-11-02T14:53:22-03:00"
+      "capturado_em": "2026-11-09T15:25:06-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=cetran_sp": {
       "hash": "dc386d25fd638e9f",
       "titulo": "Cetran-SP - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 218,
-      "capturado_em": "2026-11-02T15:10:39-03:00"
+      "capturado_em": "2026-11-09T15:45:30-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=jari": {
       "hash": "46b3334667708e71",
       "titulo": "JARI - Detran-SP",
       "categoria": "Infracoes e Multas",
       "palavras": 233,
-      "capturado_em": "2026-11-02T15:10:39-03:00"
+      "capturado_em": "2026-11-09T15:45:30-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=canais_de_comunicacao": {
       "hash": "a4f6e62c8c4d6575",
       "titulo": "Canais de Comunicação - Detran SP - SAC",
       "categoria": "Outros conteudos",
       "palavras": 158,
-      "capturado_em": "2026-11-02T14:57:27-03:00"
+      "capturado_em": "2026-11-09T15:30:00-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=aviso_de_privacidade": {
       "hash": "2ea132d5dd9e2910",
       "titulo": "Aviso de Privacidade do Site - Detran SP - SAC",
       "categoria": "Institucional",
       "palavras": 2530,
-      "capturado_em": "2026-11-02T14:57:26-03:00"
+      "capturado_em": "2026-11-09T15:30:01-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/educacao/portal_ead?id=educacao_programas_educativos": {
       "hash": "039cda063640e6d6",
@@ -974,91 +974,91 @@
       "titulo": "Estrutura Organizacional - Detran SP - SAC",
       "categoria": "Institucional",
       "palavras": 135,
-      "capturado_em": "2026-11-02T14:54:46-03:00"
+      "capturado_em": "2026-11-09T15:26:55-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=autoridades_agendas_publicas": {
       "hash": "cf2cd9c3d12cfebc",
       "titulo": "Autoridades e Agendas Públicas - Detran SP - SAC",
       "categoria": "Institucional",
       "palavras": 2351,
-      "capturado_em": "2026-11-02T14:54:57-03:00"
+      "capturado_em": "2026-11-09T15:27:09-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=competencias": {
       "hash": "028b1d67a7c602b7",
       "titulo": "Competências - Detran SP - SAC",
       "categoria": "Institucional",
       "palavras": 413,
-      "capturado_em": "2026-11-02T14:54:57-03:00"
+      "capturado_em": "2026-11-09T15:27:07-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=enderecos_contatos": {
       "hash": "a5a287390aca7bce",
       "titulo": "Endereços e Contatos - Detran SP - SAC",
       "categoria": "Unidades e Atendimento",
       "palavras": 124,
-      "capturado_em": "2026-11-02T14:54:56-03:00"
+      "capturado_em": "2026-11-09T15:27:07-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=seguranca_viaria": {
       "hash": "151d490e0ef04c4c",
       "titulo": "Segurança Viária - Detran SP - SAC",
       "categoria": "Outros conteudos",
       "palavras": 792,
-      "capturado_em": "2026-11-02T14:55:07-03:00"
+      "capturado_em": "2026-11-09T15:27:21-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=perguntas_frequentes_faq": {
-      "hash": "8d627c3b430cb37e",
+      "hash": "63c219ad332b8059",
       "titulo": "Perguntas Frequentes - Detran SP - SAC",
       "categoria": "Outros conteudos",
-      "palavras": 618,
-      "capturado_em": "2026-11-02T14:55:07-03:00"
+      "palavras": 684,
+      "capturado_em": "2026-11-09T15:27:21-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=sic": {
       "hash": "00ad503a81f6fc57",
       "titulo": "Serviço de Informação ao Cidadão - SIC - Detran SP - SAC",
       "categoria": "Servicos Digitais",
       "palavras": 332,
-      "capturado_em": "2026-11-02T14:55:07-03:00"
+      "capturado_em": "2026-11-09T15:27:21-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=lgpd": {
       "hash": "d0c7b9676a97b469",
       "titulo": "Lei Geral de Proteção de Dados - LGPD - Detran SP - SAC",
       "categoria": "Institucional",
       "palavras": 111,
-      "capturado_em": "2026-11-02T14:55:17-03:00"
+      "capturado_em": "2026-11-09T15:27:34-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=ouvidoria": {
       "hash": "abe87a005f46aa8a",
       "titulo": "Ouvidoria Detran-SP - Detran SP - SAC",
       "categoria": "Unidades e Atendimento",
       "palavras": 374,
-      "capturado_em": "2026-11-02T14:55:17-03:00"
+      "capturado_em": "2026-11-09T15:27:34-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=sala_imprensa": {
       "hash": "057e9cbcef14d4be",
       "titulo": "Imprensa - Detran SP - SAC",
       "categoria": "Outros conteudos",
       "palavras": 219,
-      "capturado_em": "2026-11-02T14:55:18-03:00"
+      "capturado_em": "2026-11-09T15:27:34-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=servidores_publicos_funcionarios": {
       "hash": "208536dd2f17073f",
       "titulo": "Servidores e Funcionários Públicos - Detran SP - SAC",
       "categoria": "Outros conteudos",
       "palavras": 157,
-      "capturado_em": "2026-11-02T14:55:27-03:00"
+      "capturado_em": "2026-11-09T15:27:44-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=programas_acoes": {
       "hash": "37273cdbb98da328",
       "titulo": "Programas e Ações - Detran SP - SAC",
       "categoria": "Institucional",
       "palavras": 583,
-      "capturado_em": "2026-11-02T14:55:27-03:00"
+      "capturado_em": "2026-11-09T15:27:45-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=licitacoes_contratacoes_diretas_e_contratos": {
       "hash": "bf960e42e8e2666d",
       "titulo": "Licitações, Contratações Diretas e Contratos - Detran SP - SAC",
       "categoria": "Institucional",
       "palavras": 97,
-      "capturado_em": "2026-11-02T14:55:28-03:00"
+      "capturado_em": "2026-11-09T15:27:45-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=convenios_repasses_transferencias": {
       "hash": "0dc1ccedc3f8755d",
@@ -1072,91 +1072,91 @@
       "titulo": "Dados Abertos - Detran SP - SAC",
       "categoria": "Institucional",
       "palavras": 171,
-      "capturado_em": "2026-11-02T14:55:37-03:00"
+      "capturado_em": "2026-11-09T15:27:56-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=editais_retirada_veiculo": {
-      "hash": "825ceee8729609d9",
+      "hash": "96e475d4b467226f",
       "titulo": "Editais de Notificação para Retirada de Veículos - Detran SP - SAC",
       "categoria": "Veiculos",
-      "palavras": 891,
-      "capturado_em": "2026-11-02T14:55:37-03:00"
+      "palavras": 905,
+      "capturado_em": "2026-11-09T15:27:56-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=editais_leilao": {
-      "hash": "cb706e5821074526",
+      "hash": "799188ff8ea19fa7",
       "titulo": "Editais de Leilão - Detran SP - SAC",
       "categoria": "Outros conteudos",
-      "palavras": 1044,
-      "capturado_em": "2026-11-02T14:55:47-03:00"
+      "palavras": 1042,
+      "capturado_em": "2026-11-09T15:28:07-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=editais_pos_leilao": {
       "hash": "5ba5c8e17b89b8f0",
       "titulo": "Editais de Notificação Pós-Leilão - Detran SP - SAC",
       "categoria": "Outros conteudos",
       "palavras": 251,
-      "capturado_em": "2026-11-02T14:55:48-03:00"
+      "capturado_em": "2026-11-09T15:28:07-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=leis_decretos": {
       "hash": "1cbd0e67924c720e",
       "titulo": "Leis e Decretos - Detran SP - SAC",
       "categoria": "Legislacao e Atos Normativos",
       "palavras": 833,
-      "capturado_em": "2026-11-02T14:56:22-03:00"
+      "capturado_em": "2026-11-09T15:28:48-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=conselhos_de_transito": {
       "hash": "c1cad3637d3f8aa0",
       "titulo": "Conselhos de Trânsito - Detran SP - SAC",
       "categoria": "Legislacao e Atos Normativos",
       "palavras": 49,
-      "capturado_em": "2026-11-02T14:56:22-03:00"
+      "capturado_em": "2026-11-09T15:28:48-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=orgaos_executivos_de_transito": {
       "hash": "0f9053c091c32e7e",
       "titulo": "Órgãos Executivos de Trânsito - Detran SP - SAC",
       "categoria": "Legislacao e Atos Normativos",
       "palavras": 48,
-      "capturado_em": "2026-11-02T14:56:34-03:00"
+      "capturado_em": "2026-11-09T15:29:01-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=consulta_publica": {
       "hash": "1b5c32b8b1449ad9",
       "titulo": "Consultas Públicas - Detran SP - SAC",
       "categoria": "Outros conteudos",
       "palavras": 387,
-      "capturado_em": "2026-11-02T14:56:34-03:00"
+      "capturado_em": "2026-11-09T15:29:02-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=avalicacao_servicos_publicos": {
       "hash": "636f755907f1f42a",
       "titulo": "Avaliação dos Serviços Públicos - Detran SP - SAC",
       "categoria": "Servicos Digitais",
       "palavras": 151,
-      "capturado_em": "2026-11-02T14:56:34-03:00"
+      "capturado_em": "2026-11-09T15:29:02-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=carta_de_servico_consultar_os_agentes_e_empresas_reguladas": {
-      "hash": "a96da2552065a51b",
+      "hash": "9bc23eb352c2e3f1",
       "titulo": "Consulta de Agentes Regulados - Detran SP - SAC",
       "categoria": "Servicos Digitais",
-      "palavras": 346,
-      "capturado_em": "2026-11-02T14:56:44-03:00"
+      "palavras": 348,
+      "capturado_em": "2026-11-09T15:29:14-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=consulta_despachantes_credenciados": {
       "hash": "091a09ebc3d9b578",
       "titulo": "Consulta Despachantes Credenciados e Taxa de Aprovação - Detran SP - SAC",
       "categoria": "Taxas e Pagamentos",
       "palavras": 50,
-      "capturado_em": "2026-11-02T14:56:47-03:00"
+      "capturado_em": "2026-11-09T15:29:16-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=estatisticas_de_vistoria_veicular": {
       "hash": "777bb9b03effe556",
       "titulo": "Estatísticas de Vistoria Veicular - Detran SP - SAC",
       "categoria": "Veiculos",
       "palavras": 44,
-      "capturado_em": "2026-11-02T14:56:46-03:00"
+      "capturado_em": "2026-11-09T15:29:15-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=informacoes_renave": {
-      "hash": "199d8d0d75127484",
+      "hash": "71faf9af656ce48f",
       "titulo": "Informações RENAVE - Detran SP - SAC",
       "categoria": "Outros conteudos",
-      "palavras": 783,
-      "capturado_em": "2026-11-02T14:56:57-03:00"
+      "palavras": 782,
+      "capturado_em": "2026-11-09T15:29:32-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=noticias_campanhas": {
       "hash": "c88c881f019810a4",
@@ -1170,35 +1170,35 @@
       "titulo": "Parcerias em Educação para o Trânsito - Detran SP - SAC",
       "categoria": "Outros conteudos",
       "palavras": 96,
-      "capturado_em": "2026-11-02T14:56:57-03:00"
+      "capturado_em": "2026-11-09T15:29:32-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=repositorio_educacional": {
       "hash": "255acfa2dc4205cf",
       "titulo": "Repositório Educacional - Detran SP - SAC",
       "categoria": "Outros conteudos",
       "palavras": 204,
-      "capturado_em": "2026-11-02T14:57:09-03:00"
+      "capturado_em": "2026-11-09T15:29:48-03:00"
     },
     "https://www.detran.sp.gov.br/sac/pb/informacoes/canais_de_comunicacao/sac_index?id=segurancaviaria": {
       "hash": "563f4ac87deb91d8",
       "titulo": "Seguranca Viária - Detran SP - SAC",
       "categoria": "Outros conteudos",
       "palavras": 671,
-      "capturado_em": "2026-11-02T14:57:09-03:00"
+      "capturado_em": "2026-11-09T15:29:48-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=custos_pagamentos": {
       "hash": "30bd9cfefedefbdc",
       "titulo": "Valores de taxas e preços publicos do Detran-SP",
       "categoria": "Taxas e Pagamentos",
       "palavras": 70,
-      "capturado_em": "2026-11-02T13:49:23-03:00"
+      "capturado_em": "2026-11-09T14:08:50-03:00"
     },
     "https://www.detran.sp.gov.br/concurso": {
       "hash": "f5da67615b581c22",
       "titulo": "Conhecimento técnico que protege vidas no trânsito",
       "categoria": "Outros conteudos",
       "palavras": 91,
-      "capturado_em": "2026-11-02T13:51:20-03:00"
+      "capturado_em": "2026-11-09T14:10:56-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/todos_os_servicos?id=programas_acoes": {
       "hash": "5cc24639ed6a5832",
@@ -1215,18 +1215,18 @@
       "capturado_em": "2026-09-21T10:57:56-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=carta_de_servico_emplacar_veiculo_0km": {
-      "hash": "503f2c9c15bcabcd",
+      "hash": "8ddc1d1f6f06008c",
       "titulo": "Emplacar Veículo 0 km",
       "categoria": "Veiculos",
-      "palavras": 2934,
-      "capturado_em": "2026-11-02T13:46:52-03:00"
+      "palavras": 2959,
+      "capturado_em": "2026-11-09T14:05:50-03:00"
     },
     "https://www.detran.sp.gov.br/zerokm": {
       "hash": "d0f80683b5204b7b",
       "titulo": "Registre seu veículo 0 km com segurança e praticidade",
       "categoria": "Veiculos",
       "palavras": 683,
-      "capturado_em": "2026-11-02T13:51:22-03:00"
+      "capturado_em": "2026-11-09T14:10:57-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/todos_os_servicos?id=carta_de_servico_indicar_real_condutor_infrator_veiculo_de_pessoa_juridica": {
       "hash": "8138979fa40af242",
@@ -1243,11 +1243,11 @@
       "capturado_em": "2026-09-21T10:48:12-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/veiculos?id=informacoes_renave": {
-      "hash": "2f59f25f1c61b1c2",
+      "hash": "acb89e150df36721",
       "titulo": "Informações RENAVE - Detran-SP",
       "categoria": "Veiculos",
-      "palavras": 788,
-      "capturado_em": "2026-10-19T11:37:46-03:00"
+      "palavras": 782,
+      "capturado_em": "2026-11-09T14:28:08-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb?id=carta_de_servico_liberar_veiculo": {
       "hash": "34b02c5b823a62b7",
@@ -1376,11 +1376,11 @@
       "capturado_em": "2026-09-21T11:26:02-03:00"
     },
     "https://www.detran.sp.gov.br/sac?id=redirect&url=%2Fsac%2Fpb%2Finformacoes%2Fcanais_de_comunicacao%2Fsac_index": {
-      "hash": "a18ec3d8f5c13f56",
+      "hash": "7a5e4d7f3e35612d",
       "titulo": "gov.br - Acesse sua conta",
       "categoria": "Outros conteudos",
-      "palavras": 123,
-      "capturado_em": "2026-11-02T14:57:27-03:00"
+      "palavras": 132,
+      "capturado_em": "2026-11-09T15:30:01-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/dados/sinistros?id=informacoes_renave": {
       "hash": "9ea884c2a64910fa",
@@ -1443,35 +1443,35 @@
       "titulo": "Seu veículo transferido de\nforma rápida e online!",
       "categoria": "Veiculos",
       "palavras": 226,
-      "capturado_em": "2026-11-02T13:45:40-03:00"
+      "capturado_em": "2026-11-09T14:04:22-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/veiculos/realizar_licenciamento_anual?id=carta_de_servico_realizar_licenciamento_anual": {
-      "hash": "958982a9e265f3c8",
+      "hash": "1f412e736b39e0d2",
       "titulo": "Realizar o Licenciamento Anual",
       "categoria": "Veiculos",
       "palavras": 1086,
-      "capturado_em": "2026-11-02T13:45:42-03:00"
+      "capturado_em": "2026-11-09T14:04:24-03:00"
     },
     "https://www.detran.sp.gov.br/sne": {
       "hash": "443b52977c6f9ed8",
       "titulo": "O que é o SNE?",
       "categoria": "Outros conteudos",
       "palavras": 66,
-      "capturado_em": "2026-11-02T13:51:21-03:00"
+      "capturado_em": "2026-11-09T14:10:55-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos": {
       "hash": "ce071b984e082054",
       "titulo": "Escolha o serviço certo para o seu caso",
       "categoria": "Veiculos",
       "palavras": 296,
-      "capturado_em": "2026-11-02T13:45:42-03:00"
+      "capturado_em": "2026-11-09T14:04:23-03:00"
     },
     "https://www.detran.sp.gov.br/ciclomotor": {
       "hash": "c416dc2415a06af6",
       "titulo": "Ciclomotores e Autopropelidos:\nentenda as regras.",
       "categoria": "Outros conteudos",
       "palavras": 706,
-      "capturado_em": "2026-11-02T13:51:31-03:00"
+      "capturado_em": "2026-11-09T14:11:07-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/todos_os_servicos?id=carta_de_servico_agendar_ou_cancelar_exame_teorico": {
       "hash": "e338df9c398201aa",
@@ -1509,18 +1509,18 @@
       "capturado_em": "2026-09-28T12:07:38-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/todos_os_servicos/educacao?id=carta_de_servico_solicitar_e_acompanhar_aprovacao_no_curso_preventivo_de_reciclagem": {
-      "hash": "c95549e10490613b",
+      "hash": "6051821e8a8dcc0b",
       "titulo": "Solicitar e Acompanhar Aprovação no Curso Preventivo de Reciclagem",
       "categoria": "Servicos Digitais",
       "palavras": 384,
-      "capturado_em": "2026-11-02T14:25:19-03:00"
+      "capturado_em": "2026-11-09T14:51:23-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_emplacar_veiculo_0km": {
-      "hash": "9c204609c1d12d4d",
+      "hash": "47c52e7ce2802379",
       "titulo": "Emplacar Veículo 0 km - Detran-SP",
       "categoria": "Veiculos",
-      "palavras": 2939,
-      "capturado_em": "2026-11-02T14:25:50-03:00"
+      "palavras": 2964,
+      "capturado_em": "2026-11-09T14:52:02-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_consultar_debitos_restricoes": {
       "hash": "5faf3480e39b4556",
@@ -1530,67 +1530,67 @@
       "capturado_em": "2026-10-26T11:44:34-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_solicitar_placa_do_veiculo": {
-      "hash": "5985c1a932ef3aec",
+      "hash": "0fb67a6bd22d9411",
       "titulo": "Solicitar Placa do Veículo - Detran-SP",
       "categoria": "Veiculos",
       "palavras": 944,
-      "capturado_em": "2026-10-26T11:44:45-03:00"
+      "capturado_em": "2026-11-09T14:52:13-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_imprimir_licenciamento_digital_crlve": {
-      "hash": "b812143b1709099e",
+      "hash": "38123d0b2a8f11c5",
       "titulo": "Imprimir Licenciamento Digital (CRLV-e) - Pessoa Jurídica - Detran-SP",
       "categoria": "Veiculos",
       "palavras": 552,
-      "capturado_em": "2026-11-02T14:25:58-03:00"
+      "capturado_em": "2026-11-09T14:52:14-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_renovar_cnh": {
-      "hash": "9fad48bb3bfe70e8",
+      "hash": "c2222878b5e07271",
       "titulo": "Renovar CNH - Detran-SP",
       "categoria": "Habilitacao (CNH)",
       "palavras": 1349,
-      "capturado_em": "2026-10-26T11:44:55-03:00"
+      "capturado_em": "2026-11-09T14:52:24-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_imprimir_cnh": {
-      "hash": "7469e905e053c3b9",
+      "hash": "de6a8769b346a854",
       "titulo": "Imprimir CNH - Detran-SP",
       "categoria": "Habilitacao (CNH)",
-      "palavras": 409,
-      "capturado_em": "2026-10-26T11:44:54-03:00"
+      "palavras": 389,
+      "capturado_em": "2026-11-09T14:52:24-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_solicitar_cnh_definitiva": {
-      "hash": "321e235a26e9c9bc",
+      "hash": "86f80f69e4a464e5",
       "titulo": "Solicitar CNH Definitiva - Detran-SP",
       "categoria": "Habilitacao (CNH)",
       "palavras": 878,
-      "capturado_em": "2026-11-02T14:26:07-03:00"
+      "capturado_em": "2026-11-09T14:52:23-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_agendar_exame_pratico_de_direcao_veicular": {
-      "hash": "de7abcabe3ff2c50",
+      "hash": "9023061abe0d0b84",
       "titulo": "Agendar ou Cancelar Exame Prático de Direção Veicular - Detran-SP",
       "categoria": "Servicos Digitais",
       "palavras": 1261,
-      "capturado_em": "2026-10-26T11:45:06-03:00"
+      "capturado_em": "2026-11-09T14:52:34-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_apresentar_recurso_contra_penalidade_de_multa_jari": {
-      "hash": "9efd6a330769ed30",
+      "hash": "ae8b60e191d8d3e1",
       "titulo": "Apresentar recurso de multa em 1ª instância (Jari) - Detran-SP",
       "categoria": "Infracoes e Multas",
-      "palavras": 660,
-      "capturado_em": "2026-10-26T11:45:16-03:00"
+      "palavras": 707,
+      "capturado_em": "2026-11-09T14:52:45-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_indicar_real_condutor_infrator_veiculo_de_pessoa_juridica": {
-      "hash": "2f2966de49509252",
+      "hash": "8d1706462a3e7df2",
       "titulo": "Indicar real condutor infrator - Detran-SP",
       "categoria": "Veiculos",
       "palavras": 503,
-      "capturado_em": "2026-10-26T11:45:26-03:00"
+      "capturado_em": "2026-11-09T14:52:54-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_liberar_veiculo": {
-      "hash": "23966a14f0630e04",
+      "hash": "9d272454083d748d",
       "titulo": "Liberar veículo - Detran-SP",
       "categoria": "Veiculos",
       "palavras": 909,
-      "capturado_em": "2026-11-02T14:26:34-03:00"
+      "capturado_em": "2026-11-09T14:52:55-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_cumprir_ordem_judicial": {
       "hash": "ff0200e51375478e",
@@ -1600,46 +1600,46 @@
       "capturado_em": "2026-10-26T11:45:25-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_realizar_inscricao_para_curso_especializado_de_motofrete": {
-      "hash": "ad44ed08627aa3df",
+      "hash": "9a785ffe672ea7b0",
       "titulo": "Realizar Inscrição para Curso Especializado de Motofrete - Detran-SP",
       "categoria": "Servicos Digitais",
       "palavras": 326,
-      "capturado_em": "2026-10-26T11:45:35-03:00"
+      "capturado_em": "2026-11-09T14:53:07-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_emitir_certidao_de_cursos_de_capacitacao": {
-      "hash": "e3810bc0d6cde859",
+      "hash": "819b5788a6768a61",
       "titulo": "Emitir Certidão de Cursos de Capacitação - Detran-SP",
       "categoria": "Servicos Digitais",
       "palavras": 154,
-      "capturado_em": "2026-10-26T11:45:36-03:00"
+      "capturado_em": "2026-11-09T14:53:05-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_realizar_inscricao_para_curso_especializado_de_mototaxi": {
-      "hash": "0789344a313b4ce1",
+      "hash": "56ea0c3cb258c929",
       "titulo": "Realizar Especialização para Mototáxi - Detran-SP",
-      "categoria": "Infracoes e Multas",
-      "palavras": 323,
-      "capturado_em": "2026-11-02T14:26:42-03:00"
+      "categoria": "Servicos Digitais",
+      "palavras": 324,
+      "capturado_em": "2026-11-09T14:53:06-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_fazer_inscricao_no_curso_de_reciclagem": {
-      "hash": "b926cd8900479c61",
+      "hash": "e99f7a129279df06",
       "titulo": "Fazer Inscrição no Curso de Reciclagem - Detran-SP",
       "categoria": "Servicos Digitais",
       "palavras": 503,
-      "capturado_em": "2026-11-02T14:26:50-03:00"
+      "capturado_em": "2026-11-09T14:53:17-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_solicitar_relatorio_de_aulas_teoricas_e_praticas": {
-      "hash": "4465317e89f68e37",
+      "hash": "490008f72ba1e524",
       "titulo": "Solicitar Relatório de Aulas Teóricas e Práticas - Detran-SP",
       "categoria": "Servicos Digitais",
       "palavras": 250,
-      "capturado_em": "2026-10-26T11:45:47-03:00"
+      "capturado_em": "2026-11-09T14:53:16-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=estrutura_organizacional": {
       "hash": "997fcdade1215303",
       "titulo": "Estrutura Organizacional - Detran-SP",
       "categoria": "Institucional",
       "palavras": 135,
-      "capturado_em": "2026-11-02T14:26:50-03:00"
+      "capturado_em": "2026-11-09T14:53:17-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_educacao_viaria_vital": {
       "hash": "9be183be28c985c8",
@@ -1653,84 +1653,84 @@
       "titulo": "Seguranca Viária - Detran-SP",
       "categoria": "Outros conteudos",
       "palavras": 671,
-      "capturado_em": "2026-10-26T11:48:07-03:00"
+      "capturado_em": "2026-11-09T14:55:45-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/regulacao/normas/lei-n%C2%BA-13-296-de-23-de-dezembro-de-2008?id=ver_norma&sys_kb_id=08006326fbdcfad047abf1984eefdc6e": {
       "hash": "33de629a2d435847",
       "titulo": "Lei nº 13.296, de 23 de dezembro de 2008 - Detran-SP",
       "categoria": "Legislacao e Atos Normativos",
       "palavras": 10564,
-      "capturado_em": "2026-11-02T14:36:40-03:00"
+      "capturado_em": "2026-11-09T15:05:13-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/regulacao/normas/resolu%C3%A7%C3%A3o-contran-n%C2%BA-809-de-15-de-dezembro-de-2020?id=ver_norma&sys_kb_id=1a9fc446fb6072d07b66f43cbeefdc4a": {
       "hash": "4bb95d82cb697be5",
       "titulo": "Resolução CONTRAN nº 809, de 15 de dezembro de 2020 - Detran-SP",
       "categoria": "Legislacao e Atos Normativos",
       "palavras": 2054,
-      "capturado_em": "2026-11-02T14:36:40-03:00"
+      "capturado_em": "2026-11-09T15:05:13-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/regulacao/normas/lei-n%C2%BA-9-503-de-23-de-setembro-de-1997?id=ver_norma&sys_kb_id=1a52b9d43be4fe504abf2337f4e45a3f": {
       "hash": "97db8ecc855e8146",
       "titulo": "Lei nº 9.503, de 23 de setembro de 1997 - Detran-SP",
       "categoria": "Legislacao e Atos Normativos",
       "palavras": 65887,
-      "capturado_em": "2026-11-02T14:36:53-03:00"
+      "capturado_em": "2026-11-09T15:05:29-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/regulacao/normas/lei-n%C2%BA-15-266-de-26-de-dezembro-de-2013?id=ver_norma&sys_kb_id=ac710baf3bd8fe101aaf0847f4e45ac4": {
       "hash": "c714f7eb4aa2ab5f",
       "titulo": "Lei nº 15.266, de 26 de dezembro de 2013 - Detran-SP",
       "categoria": "Legislacao e Atos Normativos",
       "palavras": 15646,
-      "capturado_em": "2026-11-02T14:36:51-03:00"
+      "capturado_em": "2026-11-09T15:05:28-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_transferir_veiculo": {
-      "hash": "28f91f703cecacec",
+      "hash": "074811ca72640af1",
       "titulo": "Transferir Veículo - Detran-SP",
       "categoria": "Veiculos",
       "palavras": 1029,
-      "capturado_em": "2026-10-26T11:44:35-03:00"
+      "capturado_em": "2026-11-09T14:52:02-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_realizar_licenciamento_anual": {
-      "hash": "6dfa57d61519a6e7",
+      "hash": "16bd24898b9be0f3",
       "titulo": "Realizar o Licenciamento Anual - Detran-SP",
       "categoria": "Veiculos",
       "palavras": 1091,
-      "capturado_em": "2026-11-02T14:25:59-03:00"
+      "capturado_em": "2026-11-09T14:52:13-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_iniciar_processo_primeira_habilitacao": {
-      "hash": "d02ade28c85b1945",
+      "hash": "393d9564ad2b434e",
       "titulo": "Iniciar Processo de 1ª Habilitação - Detran-SP",
       "categoria": "Habilitacao (CNH)",
       "palavras": 2195,
-      "capturado_em": "2026-11-02T14:26:17-03:00"
+      "capturado_em": "2026-11-09T14:52:34-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_consultar_multas": {
-      "hash": "cc6eb47f3461b4e2",
+      "hash": "f3f0b1c4fe525373",
       "titulo": "Consultar Multas - Detran-SP",
       "categoria": "Infracoes e Multas",
       "palavras": 462,
-      "capturado_em": "2026-11-02T14:26:26-03:00"
+      "capturado_em": "2026-11-09T14:52:43-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_apresentar_defesa_previa_autuacao": {
-      "hash": "008b7133573a90d0",
+      "hash": "9429557ac0b7da1d",
       "titulo": "Apresentar Defesa Prévia da Autuação - Detran-SP",
       "categoria": "Infracoes e Multas",
       "palavras": 1004,
-      "capturado_em": "2026-10-26T11:45:16-03:00"
+      "capturado_em": "2026-11-09T14:52:44-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_consultar_fila_de_leiloeiros_e_avaliadores": {
-      "hash": "144d9c92e536a88d",
+      "hash": "89c0c24b2fdda304",
       "titulo": "Consultar Fila de Leiloeiros e Avaliadores - Detran-SP",
       "categoria": "Veiculos",
       "palavras": 148,
-      "capturado_em": "2026-10-05T13:14:31-03:00"
+      "capturado_em": "2026-11-09T14:54:31-03:00"
     },
     "https://www.detran.sp.gov.br/tdv?id=carta_de_servico_consultar_debitos_restricoes": {
-      "hash": "61d8a416846313c6",
+      "hash": "f984fe79860ffbfd",
       "titulo": "Consultar Veículo - Detran-SP",
       "categoria": "Veiculos",
       "palavras": 645,
-      "capturado_em": "2026-11-02T14:29:08-03:00"
+      "capturado_em": "2026-11-09T14:55:54-03:00"
     },
     "https://www.detran.sp.gov.br/tdv?id=carta_de_servico_agendar_ou_cancelar_exame_teorico": {
       "hash": "f4bc0581765d90fa",
@@ -1761,25 +1761,25 @@
       "capturado_em": "2026-10-05T13:17:00-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=noticia&sys_kb_id=34f4d6e22bb14f90a738f1251991bf3b": {
-      "hash": "bd43546793449bd0",
+      "hash": "7305855f8ad3819d",
       "titulo": "Detran-SP terá expediente reduzido nesta segunda-feira (29) por causa do jogo da Seleção Brasileira..",
       "categoria": "Outros conteudos",
-      "palavras": 268,
-      "capturado_em": "2026-11-02T13:51:47-03:00"
+      "palavras": 260,
+      "capturado_em": "2026-11-09T14:11:25-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=noticia&sys_kb_id=3fcbe5b987e58754e6bca8630cbb35e0": {
-      "hash": "84ff67c8d5250146",
+      "hash": "7a8f4732cacd8463",
       "titulo": "Dia Nacional da Lei Seca reforça avanço da fiscalização contra álcool ao volante em São Paulo",
       "categoria": "Outros conteudos",
-      "palavras": 630,
-      "capturado_em": "2026-11-02T13:51:47-03:00"
+      "palavras": 628,
+      "capturado_em": "2026-11-09T14:11:25-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=noticia&sys_kb_id=506be53987e58754e6bca8630cbb3595": {
-      "hash": "097b88449b9cf331",
+      "hash": "55483bed87bd5f05",
       "titulo": "Exame toxicológico passa a ser exigido para primeira habilitação nas categorias A e B",
       "categoria": "Habilitacao (CNH)",
-      "palavras": 390,
-      "capturado_em": "2026-11-02T13:51:46-03:00"
+      "palavras": 388,
+      "capturado_em": "2026-11-09T14:11:40-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=noticia&sys_kb_id=8dc26e6287f147d4a71aedf80cbb359c": {
       "hash": "b1cd50c7980a0613",
@@ -1849,21 +1849,21 @@
       "titulo": "Portaria Normativa DETRAN-SP nº 17, de 26 de dezembro de 2023 - Detran-SP",
       "categoria": "Legislacao e Atos Normativos",
       "palavras": 502,
-      "capturado_em": "2026-11-02T14:36:51-03:00"
+      "capturado_em": "2026-11-09T15:05:26-03:00"
     },
     "https://www.detran.sp.gov.br/isa": {
       "hash": "cb379f6c5810e260",
       "titulo": "Novo canal de atendimento",
       "categoria": "Unidades e Atendimento",
       "palavras": 139,
-      "capturado_em": "2026-11-02T13:51:09-03:00"
+      "capturado_em": "2026-11-09T14:10:43-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servicos/infracoes?id=carta_de_servico_solicitar_junta_medica_ou_psicologica_de_recurso_1_instancia": {
-      "hash": "98d0a485136cab3b",
+      "hash": "2104d1c923fc5937",
       "titulo": "Solicitar Junta Médica ou Psicológica de Recurso - 1ª Instância",
       "categoria": "Infracoes e Multas",
-      "palavras": 531,
-      "capturado_em": "2026-11-02T14:11:59-03:00"
+      "palavras": 544,
+      "capturado_em": "2026-11-09T14:35:38-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=informacoes_renave": {
       "hash": "bb7181136c787ece",
@@ -1908,18 +1908,18 @@
       "capturado_em": "2026-11-02T14:37:02-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_transferir_veiculo": {
-      "hash": "adb1ddd99a911958",
+      "hash": "fd01be5732881981",
       "titulo": "Transferir Veículo - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 1029,
-      "capturado_em": "2026-11-02T14:37:13-03:00"
+      "capturado_em": "2026-11-09T15:05:58-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_solicitar_placa_do_veiculo": {
-      "hash": "0b1de07da3e3d9ce",
+      "hash": "11437b6a3276daf0",
       "titulo": "Solicitar Placa do Veículo - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 944,
-      "capturado_em": "2026-10-26T11:58:04-03:00"
+      "capturado_em": "2026-11-09T15:06:09-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_renovar_cnh": {
       "hash": "623c00b247da8e24",
@@ -1929,249 +1929,249 @@
       "capturado_em": "2026-11-02T14:37:30-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_consultar_multas": {
-      "hash": "4b2aebb91b638559",
+      "hash": "ddd1e772ce5a829b",
       "titulo": "Consultar Multas - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 462,
-      "capturado_em": "2026-10-26T11:58:35-03:00"
+      "capturado_em": "2026-11-09T15:06:42-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_apresentar_defesa_previa_autuacao": {
-      "hash": "00591866693f204a",
+      "hash": "ea9f9466877103a4",
       "titulo": "Apresentar Defesa Prévia da Autuação - Veículos Antigos",
       "categoria": "Veiculos",
-      "palavras": 1019,
-      "capturado_em": "2026-10-19T12:11:35-03:00"
+      "palavras": 1004,
+      "capturado_em": "2026-11-09T15:06:45-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_liberar_veiculo": {
-      "hash": "051813d9b73a762c",
+      "hash": "d74552222c727031",
       "titulo": "Liberar veículo - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 909,
-      "capturado_em": "2026-10-19T12:11:44-03:00"
+      "capturado_em": "2026-11-09T15:06:56-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_emitir_certidao_de_cursos_de_capacitacao": {
-      "hash": "88bf689e2185a191",
+      "hash": "6ce8ade4503b72f2",
       "titulo": "Emitir Certidão de Cursos de Capacitação - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 154,
-      "capturado_em": "2026-10-26T11:58:56-03:00"
+      "capturado_em": "2026-11-09T15:07:07-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=estrutura_organizacional": {
       "hash": "66bfef87462a576e",
       "titulo": "Estrutura Organizacional - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 135,
-      "capturado_em": "2026-11-02T14:38:15-03:00"
+      "capturado_em": "2026-11-09T15:07:17-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=autoridades_agendas_publicas": {
       "hash": "ca2fa1d0e2a5b3e5",
       "titulo": "Autoridades e Agendas Públicas - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 2351,
-      "capturado_em": "2026-11-02T14:38:23-03:00"
+      "capturado_em": "2026-11-09T15:07:27-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=competencias": {
       "hash": "e9bf449bb4cc2eaa",
       "titulo": "Competências - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 413,
-      "capturado_em": "2026-11-02T14:38:22-03:00"
+      "capturado_em": "2026-11-09T15:07:28-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=enderecos_contatos": {
       "hash": "e9a1859b842dfd41",
       "titulo": "Endereços e Contatos - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 124,
-      "capturado_em": "2026-11-02T14:38:32-03:00"
+      "capturado_em": "2026-11-09T15:07:37-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=seguranca_viaria": {
       "hash": "c13d07c5302273ae",
       "titulo": "Segurança Viária - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 792,
-      "capturado_em": "2026-11-02T14:38:32-03:00"
+      "capturado_em": "2026-11-09T15:07:38-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=perguntas_frequentes_faq": {
-      "hash": "719e9735def22e56",
+      "hash": "7d3607ac4be272a7",
       "titulo": "Perguntas Frequentes - Veículos Antigos",
       "categoria": "Veiculos",
-      "palavras": 618,
-      "capturado_em": "2026-11-02T14:38:32-03:00"
+      "palavras": 684,
+      "capturado_em": "2026-11-09T15:07:39-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=sic": {
       "hash": "9fcd54b3771ac30c",
       "titulo": "Serviço de Informação ao Cidadão - SIC - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 332,
-      "capturado_em": "2026-11-02T14:38:40-03:00"
+      "capturado_em": "2026-11-09T15:07:49-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=lgpd": {
       "hash": "69f197cabb31daf8",
       "titulo": "Lei Geral de Proteção de Dados - LGPD - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 111,
-      "capturado_em": "2026-11-02T14:38:40-03:00"
+      "capturado_em": "2026-11-09T15:07:50-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=ouvidoria": {
       "hash": "8be67cc3c02b8382",
       "titulo": "Ouvidoria Detran-SP - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 374,
-      "capturado_em": "2026-11-02T14:38:40-03:00"
+      "capturado_em": "2026-11-09T15:07:48-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=sala_imprensa": {
       "hash": "db8f393b41cb77f6",
       "titulo": "Imprensa - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 219,
-      "capturado_em": "2026-11-02T14:38:50-03:00"
+      "capturado_em": "2026-11-09T15:07:59-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=servidores_publicos_funcionarios": {
       "hash": "b72b7a3489f657f9",
       "titulo": "Servidores e Funcionários Públicos - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 157,
-      "capturado_em": "2026-11-02T14:38:47-03:00"
+      "capturado_em": "2026-11-09T15:07:58-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=programas_acoes": {
       "hash": "c313f558cf6dbf51",
       "titulo": "Programas e Ações - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 583,
-      "capturado_em": "2026-11-02T14:38:47-03:00"
+      "capturado_em": "2026-11-09T15:07:59-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=licitacoes_contratacoes_diretas_e_contratos": {
       "hash": "86fd1bd55c60eee0",
       "titulo": "Licitações, Contratações Diretas e Contratos - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 97,
-      "capturado_em": "2026-11-02T14:38:57-03:00"
+      "capturado_em": "2026-11-09T15:08:08-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=dados_abertos": {
       "hash": "41d25aca4e1e4abf",
       "titulo": "Dados Abertos - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 171,
-      "capturado_em": "2026-11-02T14:38:57-03:00"
+      "capturado_em": "2026-11-09T15:08:10-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=editais_retirada_veiculo": {
-      "hash": "29362f3766beb588",
+      "hash": "018e2577a2185c4d",
       "titulo": "Editais de Notificação para Retirada de Veículos - Veículos Antigos",
       "categoria": "Veiculos",
-      "palavras": 891,
-      "capturado_em": "2026-11-02T14:39:07-03:00"
+      "palavras": 905,
+      "capturado_em": "2026-11-09T15:08:18-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=leis_decretos": {
       "hash": "4d6a2df3ef41dc4e",
       "titulo": "Leis e Decretos - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 833,
-      "capturado_em": "2026-11-02T14:39:33-03:00"
+      "capturado_em": "2026-11-09T15:08:50-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=conselhos_de_transito": {
       "hash": "3bd36dedb75c5d5c",
       "titulo": "Conselhos de Trânsito - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 49,
-      "capturado_em": "2026-11-02T14:39:41-03:00"
+      "capturado_em": "2026-11-09T15:09:01-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=orgaos_executivos_de_transito": {
       "hash": "8fd55d67ce62dfd8",
       "titulo": "Órgãos Executivos de Trânsito - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 48,
-      "capturado_em": "2026-11-02T14:39:41-03:00"
+      "capturado_em": "2026-11-09T15:08:59-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=consulta_publica": {
       "hash": "dc0896a4a7f4b591",
       "titulo": "Consultas Públicas - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 387,
-      "capturado_em": "2026-11-02T14:39:41-03:00"
+      "capturado_em": "2026-11-09T15:09:00-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=avalicacao_servicos_publicos": {
       "hash": "b14a8dcf57264a67",
       "titulo": "Avaliação dos Serviços Públicos - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 151,
-      "capturado_em": "2026-11-02T14:39:50-03:00"
+      "capturado_em": "2026-11-09T15:09:12-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_consultar_os_agentes_e_empresas_reguladas": {
-      "hash": "6df95d671a3b05cb",
+      "hash": "5f31d95d8c6ff772",
       "titulo": "Consulta de Agentes Regulados - Veículos Antigos",
       "categoria": "Veiculos",
-      "palavras": 346,
-      "capturado_em": "2026-11-02T14:39:49-03:00"
+      "palavras": 348,
+      "capturado_em": "2026-11-09T15:09:11-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=consulta_despachantes_credenciados": {
       "hash": "8731f3c7d443abd4",
       "titulo": "Consulta Despachantes Credenciados e Taxa de Aprovação - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 50,
-      "capturado_em": "2026-11-02T14:39:50-03:00"
+      "capturado_em": "2026-11-09T15:09:10-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=estatisticas_de_vistoria_veicular": {
       "hash": "f54166ba1e3474c3",
       "titulo": "Estatísticas de Vistoria Veicular - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 44,
-      "capturado_em": "2026-11-02T14:40:00-03:00"
+      "capturado_em": "2026-11-09T15:09:22-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=informacoes_renave": {
-      "hash": "7350c3cec99a43bd",
+      "hash": "5790a26de5223399",
       "titulo": "Informações RENAVE - Veículos Antigos",
       "categoria": "Veiculos",
-      "palavras": 783,
-      "capturado_em": "2026-11-02T14:39:59-03:00"
+      "palavras": 782,
+      "capturado_em": "2026-11-09T15:09:21-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=noticias_campanhas": {
       "hash": "ae4609ec8610f5f0",
       "titulo": "Notícias e Campanhas - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 44,
-      "capturado_em": "2026-11-02T14:39:59-03:00"
+      "capturado_em": "2026-11-09T15:09:22-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=parcerias_educacao_transito": {
       "hash": "5c8661ad6eeba391",
       "titulo": "Parcerias em Educação para o Trânsito - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 96,
-      "capturado_em": "2026-11-02T14:40:07-03:00"
+      "capturado_em": "2026-11-09T15:09:32-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=repositorio_educacional": {
       "hash": "f4301edec7c75250",
       "titulo": "Repositório Educacional - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 204,
-      "capturado_em": "2026-11-02T14:40:07-03:00"
+      "capturado_em": "2026-11-09T15:09:30-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=segurancaviaria": {
-      "hash": "318c55182c7f5245",
+      "hash": "887dd633ad7866b7",
       "titulo": "Seguranca Viária - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 671,
-      "capturado_em": "2026-11-02T14:40:16-03:00"
+      "capturado_em": "2026-11-09T15:09:41-03:00"
     },
     "https://www.detran.sp.gov.br/detransp/pb/servico/veiculo/solicitar_cadastro_veiculo_placa_2_letras_placa_amarela?id=carta_de_servico_solicitar_cadastro_veiculo_placa_2_letras_placa_mercosul": {
-      "hash": "b59acbfa6807c62a",
+      "hash": "bd8532c36d5c054d",
       "titulo": "Solicitar Atualização de Placa de 2 Letras para Mercosul",
       "categoria": "Veiculos",
       "palavras": 691,
-      "capturado_em": "2026-11-02T14:40:17-03:00"
+      "capturado_em": "2026-11-09T15:09:43-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=aviso_de_privacidade": {
       "hash": "0468f8d4d6920258",
       "titulo": "Aviso de Privacidade do Site - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 2530,
-      "capturado_em": "2026-11-02T14:40:16-03:00"
+      "capturado_em": "2026-11-09T15:09:42-03:00"
     },
     "https://www.detran.sp.gov.br/cnhpaulista?id=carta_de_servico_agendar_ou_cancelar_exame_teorico": {
-      "hash": "14e8506eee65873f",
+      "hash": "ba5a7fb65b3489fb",
       "titulo": "Agendar ou Cancelar Exame Teórico - Detran-SP",
-      "categoria": "Habilitacao (CNH)",
+      "categoria": "Servicos Digitais",
       "palavras": 1048,
-      "capturado_em": "2026-10-26T11:45:05-03:00"
+      "capturado_em": "2026-11-09T14:52:33-03:00"
     },
     "https://www.detran.sp.gov.br/tdv?id=carta_de_servico_consultar_fila_de_leiloeiros_e_avaliadores": {
       "hash": "a08a13cd1fe75d78",
@@ -2181,25 +2181,25 @@
       "capturado_em": "2026-10-26T11:50:40-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_emplacar_veiculo_0km": {
-      "hash": "646fe92c49a80af9",
+      "hash": "cf19fe4a37b0ecc1",
       "titulo": "Emplacar Veículo 0 km - Veículos Antigos",
       "categoria": "Veiculos",
-      "palavras": 2939,
-      "capturado_em": "2026-10-26T11:57:54-03:00"
+      "palavras": 2964,
+      "capturado_em": "2026-11-09T15:05:58-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_imprimir_licenciamento_digital_crlve": {
-      "hash": "8dec695de628281b",
+      "hash": "2d38b5a3f1e057cb",
       "titulo": "Imprimir Licenciamento Digital (CRLV-e) - Pessoa Jurídica - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 552,
-      "capturado_em": "2026-10-26T11:58:03-03:00"
+      "capturado_em": "2026-11-09T15:06:08-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_imprimir_cnh": {
-      "hash": "a0ab7a0f80434aec",
+      "hash": "98d05a25aed3028f",
       "titulo": "Imprimir CNH - Veículos Antigos",
       "categoria": "Habilitacao (CNH)",
-      "palavras": 409,
-      "capturado_em": "2026-10-26T11:58:15-03:00"
+      "palavras": 389,
+      "capturado_em": "2026-11-09T15:06:20-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_solicitar_cnh_definitiva": {
       "hash": "71e4f6dc88dc1ca2",
@@ -2209,74 +2209,74 @@
       "capturado_em": "2026-10-26T11:58:13-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_iniciar_processo_primeira_habilitacao": {
-      "hash": "142a153afa5fcb80",
+      "hash": "1be2ccd9419f0ddc",
       "titulo": "Iniciar Processo de 1ª Habilitação - Veículos Antigos",
       "categoria": "Habilitacao (CNH)",
       "palavras": 2195,
-      "capturado_em": "2026-10-26T11:58:25-03:00"
+      "capturado_em": "2026-11-09T15:06:31-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_agendar_ou_cancelar_exame_teorico": {
-      "hash": "0f7df6adb98ae8bb",
+      "hash": "839a274680006868",
       "titulo": "Agendar ou Cancelar Exame Teórico - Veículos Antigos",
       "categoria": "Habilitacao (CNH)",
       "palavras": 1048,
-      "capturado_em": "2026-10-26T11:58:24-03:00"
+      "capturado_em": "2026-11-09T15:06:33-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_apresentar_recurso_contra_penalidade_de_multa_jari": {
-      "hash": "868fff759370cd67",
+      "hash": "57c3d35b8e9ce3d9",
       "titulo": "Apresentar recurso de multa em 1ª instância (Jari) - Veículos Antigos",
       "categoria": "Veiculos",
-      "palavras": 660,
-      "capturado_em": "2026-11-02T14:37:49-03:00"
+      "palavras": 707,
+      "capturado_em": "2026-11-09T15:06:43-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_indicar_real_condutor_infrator_veiculo_de_pessoa_juridica": {
-      "hash": "9c8728b249bac85b",
+      "hash": "5b128c8ce194cd13",
       "titulo": "Indicar real condutor infrator - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 503,
-      "capturado_em": "2026-10-26T11:58:45-03:00"
+      "capturado_em": "2026-11-09T15:06:54-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_cumprir_ordem_judicial": {
-      "hash": "d4469c3b25817e36",
+      "hash": "5d7f023254b7e639",
       "titulo": "Protocolar Ordem Judicial - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 494,
-      "capturado_em": "2026-11-02T14:37:57-03:00"
+      "capturado_em": "2026-11-09T15:06:55-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_realizar_inscricao_para_curso_especializado_de_motofrete": {
-      "hash": "72b4081eea604071",
+      "hash": "c572418a381d6be0",
       "titulo": "Realizar Inscrição para Curso Especializado de Motofrete - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 326,
-      "capturado_em": "2026-11-02T14:38:06-03:00"
+      "capturado_em": "2026-11-09T15:07:05-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_realizar_inscricao_para_curso_especializado_de_mototaxi": {
-      "hash": "79d16e1a92054163",
+      "hash": "39bd90dd26f6b09a",
       "titulo": "Realizar Especialização para Mototáxi - Veículos Antigos",
       "categoria": "Veiculos",
-      "palavras": 323,
-      "capturado_em": "2026-11-02T14:38:05-03:00"
+      "palavras": 324,
+      "capturado_em": "2026-11-09T15:07:06-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_fazer_inscricao_no_curso_de_reciclagem": {
-      "hash": "2153f95803dcd082",
+      "hash": "402846562dceeec5",
       "titulo": "Fazer Inscrição no Curso de Reciclagem - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 503,
-      "capturado_em": "2026-10-26T11:59:06-03:00"
+      "capturado_em": "2026-11-09T15:07:17-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_solicitar_relatorio_de_aulas_teoricas_e_praticas": {
-      "hash": "a8f4ccf68cd78c96",
+      "hash": "372965f28326a42d",
       "titulo": "Solicitar Relatório de Aulas Teóricas e Práticas - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 250,
-      "capturado_em": "2026-10-26T11:59:06-03:00"
+      "capturado_em": "2026-11-09T15:07:16-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=editais_pos_leilao": {
       "hash": "7048ab0b35fdf40f",
       "titulo": "Editais de Notificação Pós-Leilão - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 251,
-      "capturado_em": "2026-11-02T14:39:06-03:00"
+      "capturado_em": "2026-11-09T15:08:20-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_consultar_fila_de_leiloeiros_e_avaliadores": {
       "hash": "cbda44c4e838d72f",
@@ -2286,11 +2286,11 @@
       "capturado_em": "2026-10-26T12:00:22-03:00"
     },
     "https://www.detran.sp.gov.br/detransp?id=noticia&sys_kb_id=1c52e6a33b005f100e1d5921a3e45a59": {
-      "hash": "cdf126d71610b6be",
+      "hash": "4ef554d204c13eff",
       "titulo": "Detran-SP entra na reta final do maior ciclo de leilões de sua história",
       "categoria": "Outros conteudos",
-      "palavras": 467,
-      "capturado_em": "2026-11-02T13:51:34-03:00"
+      "palavras": 459,
+      "capturado_em": "2026-11-09T14:11:25-03:00"
     },
     "https://www.detran.sp.gov.br/tdv?id=carta_de_servico_solicitar_placa_do_veiculo": {
       "hash": "cb41aa55559fa91c",
@@ -2300,11 +2300,11 @@
       "capturado_em": "2026-11-02T14:29:17-03:00"
     },
     "https://www.detran.sp.gov.br/tdv?id=carta_de_servico_cumprir_ordem_judicial": {
-      "hash": "c19886f3e3f9a3a6",
+      "hash": "e20255b45a2f572d",
       "titulo": "Protocolar Ordem Judicial - Detran-SP",
       "categoria": "Infracoes e Multas",
       "palavras": 494,
-      "capturado_em": "2026-11-02T14:29:53-03:00"
+      "capturado_em": "2026-11-09T14:56:47-03:00"
     },
     "https://www.detran.sp.gov.br/tdv?id=segurancaviaria": {
       "hash": "e26611cf1446fd63",
@@ -2314,32 +2314,67 @@
       "capturado_em": "2026-11-02T14:32:14-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_consultar_debitos_restricoes": {
-      "hash": "504253cf0e8ceed9",
+      "hash": "de95a08c3765ba6d",
       "titulo": "Consultar Veículo - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 645,
-      "capturado_em": "2026-11-02T14:37:12-03:00"
+      "capturado_em": "2026-11-09T15:05:57-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_realizar_licenciamento_anual": {
-      "hash": "fbf8995a5c35afc5",
+      "hash": "2ab749aa1548f75e",
       "titulo": "Realizar o Licenciamento Anual - Veículos Antigos",
       "categoria": "Veiculos",
       "palavras": 1091,
-      "capturado_em": "2026-11-02T14:37:21-03:00"
+      "capturado_em": "2026-11-09T15:06:09-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=carta_de_servico_agendar_exame_pratico_de_direcao_veicular": {
-      "hash": "032cceea0969220d",
+      "hash": "394fdd87bc206b48",
       "titulo": "Agendar ou Cancelar Exame Prático de Direção Veicular - Veículos Antigos",
       "categoria": "Habilitacao (CNH)",
       "palavras": 1261,
-      "capturado_em": "2026-11-02T14:37:40-03:00"
+      "capturado_em": "2026-11-09T15:06:32-03:00"
     },
     "https://www.detran.sp.gov.br/veiculos_antigos?id=editais_leilao": {
-      "hash": "5fe93306074d0951",
+      "hash": "b4c60a104edc1cf2",
       "titulo": "Editais de Leilão - Veículos Antigos",
       "categoria": "Veiculos",
-      "palavras": 1044,
-      "capturado_em": "2026-11-02T14:39:06-03:00"
+      "palavras": 1042,
+      "capturado_em": "2026-11-09T15:08:19-03:00"
+    },
+    "https://www.detran.sp.gov.br/detransp?id=noticia&sys_kb_id=166618a62b9cd750a738f1251991bf12": {
+      "hash": "d5de7189536634d8",
+      "titulo": "Detran-SP abre inscrições para Curso de Reciclagem com turma extra em novembro",
+      "categoria": "Outros conteudos",
+      "palavras": 478,
+      "capturado_em": "2026-11-09T14:11:10-03:00"
+    },
+    "https://www.detran.sp.gov.br/detransp/pb/servico/veiculo/solicitar_cartao_idoso_para_estacionamento_vaga_especial?id=carta_de_servico_solicitar_cartao_idoso_para_estacionamento_vaga_especial": {
+      "hash": "663ab678d1a38b5b",
+      "titulo": "Solicitar Cartão do Idoso para Vaga Especial",
+      "categoria": "Veiculos",
+      "palavras": 473,
+      "capturado_em": "2026-11-09T14:11:39-03:00"
+    },
+    "https://www.detran.sp.gov.br/detransp/pb/servico/veiculo/solicitar_cartao_para_estacionamento_em_vaga_especial_pcd?id=carta_de_servico_solicitar_cartao_para_estacionamento_em_vaga_especial_pcd": {
+      "hash": "b452963ea1f840f6",
+      "titulo": "Solicitar Cartão para Vaga Especial PcD",
+      "categoria": "Veiculos",
+      "palavras": 610,
+      "capturado_em": "2026-11-09T14:11:52-03:00"
+    },
+    "https://www.detran.sp.gov.br/detransp/pb/servicos/veiculos?id=carta_servico_pagar_vistoria_veicular": {
+      "hash": "3b483caa727c5ec4",
+      "titulo": "Pagar Vistoria Veicular",
+      "categoria": "Veiculos",
+      "palavras": 1603,
+      "capturado_em": "2026-11-09T14:29:06-03:00"
+    },
+    "https://www.detran.sp.gov.br/detransp/pb/servico/veiculos/realizar_licenciamento_anual?id=carta_de_servico_emplacar_veiculo_0km": {
+      "hash": "25e12ea64b773327",
+      "titulo": "Emplacar Veículo 0 km",
+      "categoria": "Veiculos",
+      "palavras": 2558,
+      "capturado_em": "2026-11-09T15:00:06-03:00"
     }
   }
 }
